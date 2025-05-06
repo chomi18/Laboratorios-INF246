@@ -38,4 +38,4 @@ Las funciones creadas fueron:
 - Si el jugador se pasa de 21 puntos, perderá automáticamente, sin importar los puntos del crupier.
 - Al asignar los "puntos de victoria de ronda" al crupier, se entiende por enunciado que al decir, "...pero el crupier recibe solo +1 punto por ronda si gana la mayoría de duelos...", se habla de haberle ganado a tres jugadores en la ronda. Si el crupier le gana a 2 jugadores, empata con otro y pierde con el ultimo jugador, no se le otorgarán puntos puesto que solo le ganó a dos jugadores (no cuenta como la mayoría).
 - Si el crupier (usuario) se encuentra tomando decisiones, y elige pedir una carta pero se pasa de los puntos, el turno del crupier terminará atuomáticamente e imprimirá por pantalla el resultado de la ronda y continuará con el flujo de las demás rondas.
-- 
+
