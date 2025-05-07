@@ -11,13 +11,15 @@ David Kripper, ROL: 202273521-K
 Para utilizar el código se tiene que colocar lo siguiente en la terminal:
 
 ```
-make    #Para compilar el código
+make   
 
-make run    #Para ejecutar el código
-
-make valgrind    #Para ejecutar el código con valgrind
-
-make clear    #Para eliminar el ejecutable
+make run    
+```
+```
+make valgrind
+```
+```
+make clear
 ```
 
 ### Explicación del código
