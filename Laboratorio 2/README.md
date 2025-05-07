@@ -1,4 +1,4 @@
-# Tarea-1-SO
+# Laboratorio-2-SO
 
 ### Integrantes:
 
