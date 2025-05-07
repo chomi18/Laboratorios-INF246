@@ -14,7 +14,6 @@
 
 using namespace std;
 
-#define NUM_RONDAS 5
 #define MAX_PUNTOS 21
 #define NUM_JUGADORES 4
 #define NUM_CARTAS 52
@@ -28,25 +27,23 @@ struct Carta
 
 struct Jugador
 {
-    int puntos;
-    int puntos_ronda;
+    int puntos; //Puntos por ganar una ronda
+    int puntos_ronda; //Puntos de la mano
     bool plantado;
     bool perdio;
-    pid_t pid;
-    Carta cartas_jugador[12];
+    pid_t pid; //Guarda el pide del proceso
+    Carta cartas_jugador[12]; //Mano del jugador
     int num_cartas;
 };
 
 struct MemoriaCompartida
 {
-    Carta mazo[NUM_CARTAS];
-    Jugador jugadores[NUM_JUGADORES];
-    Jugador crupier;
-    int cartas_repartidas;
-    int turno_actual;
-    bool ronda_terminada;
-    int rondas_jugadas;
-    bool crupier_recibe_cartas;
+    Carta mazo[NUM_CARTAS]; //Las 52 cartas del mazo
+    Jugador jugadores[NUM_JUGADORES]; //Arreglo con los jugadores y sus respectivas variables
+    Jugador crupier; //Crupier
+    int cartas_repartidas; //Leva un conteo de las cartas repartidas para poder repartir de la manera correcta
+    int rondas_jugadas; //Guarda la información de cuantas rondas se han jugado
+    bool crupier_recibe_cartas; //Una flag cuya función es que los jugadores esperen a que el crupier reciba sus cartas para tomar decisiones
 };
 
 void iniciarMazo(MemoriaCompartida *mem); 
@@ -61,7 +58,7 @@ bool pedirCarta(int puntos);
 /*bool pedirCarta: Esta función se encarga de determinar si el jugador pedirá una carta o se plantará, tal como especifica en el enunciado de la tarea*/
 Carta repartirCarta(MemoriaCompartida *mem);
 /*Carta repartirCarta: Esta función se encarga de retornar una carta del mazo, la cual será asignada posteriormente a un Jugador o al Crupier*/
-void JugadorJuega(MemoriaCompartida *mem);
+void JugadorJuega(int id, MemoriaCompartida *mem);
 /*void JugadorJuega: Esta función hace todo lo que tiene que realizar el jugador en cada ronda. Recibe dos cartas y las imprime por pantalla con la figura, la pinta de cada una y los puntos que acumulan las 2. Luego, gracias a la
 función pedirCarta, el jugador decide si pedir otra Carta o si Plantarse. Si decide sacar carta, se imprime por pantalla la carta obtenida y además los puntos actualziados con la carta obtenida. Si decide palantarse, se imprime
 por pantalla la decisión y también los puntos totales que obtiene. Si el jugador se pasa de los 21 puntos, se imprime por pantalla que perdió junto con los puntos que obtuvo al pasarse. Si el jugador se pasa de los puntos pero 
@@ -164,7 +161,6 @@ void iniciarMazo(MemoriaCompartida *mem){
             mem->mazo[indice].valor = valores[figura];
             mem->mazo[indice].pinta = pintas[pinta];
             mem->mazo[indice].figura = figuras[figura];
-            mem->mazo[indice].repartida = false;
             indice++;
         }
         
@@ -182,7 +178,6 @@ void revolverCartas(MemoriaCompartida *mem){
         Carta temp = mem->mazo[i];
         mem->mazo[i] = mem->mazo[aux];
         mem->mazo[aux] = temp;
-        mem->mazo[i].repartida = false;
 
     }
 }
@@ -221,7 +216,7 @@ void JugadorJuega(int id, MemoriaCompartida *mem){
     while(!mem->crupier_recibe_cartas){
         //El Jugador espera a que el crupier termine de recibir sus cartas e impirma por pantalla
     }
-    usleep(100000*id);//Espera nuevamente para que no haya colisiones entre los jugadores
+    usleep(100000*id*1.5);//Espera nuevamente para que no haya colisiones entre los jugadores
 
     int revisador_A = 0; //Guarda la posición de donde se encontraba la última A para no reajustar otra vez el valor del mismo As
     while(mem->jugadores[id].puntos_ronda < MAX_PUNTOS){
@@ -276,7 +271,7 @@ void CrupierJuega(MemoriaCompartida *mem){
     mem->crupier.num_cartas = 0;
     mem->crupier.puntos_ronda = 0;
     sleep(1);
-    cout << "\n ============================================= Turno del Crupier ============================================= \n" << endl;
+    cout << "\n ============================================= Turno del Crupier =============================================" << endl;
     //Carta 1
     mem->crupier.cartas_jugador[mem->crupier.num_cartas] = repartirCarta(mem);
     mem->crupier.puntos_ronda += mem->crupier.cartas_jugador[mem->crupier.num_cartas].valor;
@@ -288,9 +283,8 @@ void CrupierJuega(MemoriaCompartida *mem){
     //Imprime las cartas del Crupier y mantiene una carta oculta
     cout << "Crupier tiene las cartas: " << mem->crupier.cartas_jugador[0].figura << "-" << mem->crupier.cartas_jugador[0].pinta << 
     " y [Carta boca abajo]" << endl;
-    cout << endl;
 
-    cout << " ============================================= Turno del Crupier =============================================\n" << endl;
+    cout << "\n=========================================== Turno de los Jugadores ==========================================" << endl;
 
     mem->crupier_recibe_cartas = true;
 
@@ -298,23 +292,22 @@ void CrupierJuega(MemoriaCompartida *mem){
         waitpid(mem->jugadores[i].pid, NULL, 0); //Espera a que los Jugadores terminen de realizar sus acciones, si pedir carta o plantarse 
     }
 
-    cout << " ============================================= Turno del Crupier =============================================" << endl;
+    cout << "============================================= Turno del Crupier =============================================" << endl;
     //Crupier revela su carta y se muestra la información de su mano
     cout << "Crupier da vuelta su carta. Sus cartas son: " << mem->crupier.cartas_jugador[0].figura << "-" << mem->crupier.cartas_jugador[0].pinta << 
     " y " << mem->crupier.cartas_jugador[1].figura << "-" << mem->crupier.cartas_jugador[1].pinta << " y tiene " << mem->crupier.puntos_ronda << " puntos.\n" << endl;
-    if(mem->crupier.puntos_ronda == MAX_PUNTOS) cout << " ============================ Turno del Crupier: ============================\n" << endl;
 
     int revisador_A = 0;
     while(mem->crupier.puntos_ronda < MAX_PUNTOS){
         char decision;
-        cout << "Ingrese su desición. '(C) para pedir Carta o (P) para Plantarse: '"; //Deja al usuario decidir la acción que se debe tomar
+        cout << "Ingrese su desición. (C) para pedir Carta o (P) para Plantarse: "; //Deja al usuario decidir la acción que se debe tomar
         cin >> decision;
         cout << endl;
         if(decision == 'C'){
             mem->crupier.cartas_jugador[mem->crupier.num_cartas] = repartirCarta(mem);
             mem->crupier.puntos_ronda += mem->crupier.cartas_jugador[mem->crupier.num_cartas].valor;
             //Informa por pantalla la información de la carta obtenida
-            cout << "Carta obrenida: " << mem->crupier.cartas_jugador[mem->crupier.num_cartas].figura << 
+            cout << "Carta obtenida: " << mem->crupier.cartas_jugador[mem->crupier.num_cartas].figura << 
             "-" << mem->crupier.cartas_jugador[mem->crupier.num_cartas].pinta;
             mem->crupier.num_cartas++;
             //Verifica si el Crupier se pasó de puntos y si la carta obtenida es un As, ajusta los puntos
@@ -326,6 +319,7 @@ void CrupierJuega(MemoriaCompartida *mem){
                 }
             }
             if(mem->crupier.puntos_ronda > MAX_PUNTOS){ //Si se pasa de los puntos, termina el ciclo de decision y no le pregunta por mas desiciones al usuario. Muestra por pantalla el resultado
+                cout << endl;
                 cout << "\nEl Crupier perdió. Cartas: ";
                 mem->crupier.perdio = true;
                 for(int i = 0; i < mem->crupier.num_cartas; i++){
@@ -336,10 +330,9 @@ void CrupierJuega(MemoriaCompartida *mem){
                     }
                 }   
                 cout << "Puntos: " << mem->crupier.puntos_ronda << "\n";
-                cout << " ============================================= Turno del Crupier =============================================\n" << endl;
                 break;
             } else {
-                cout << ". Puntos actuales: " << mem->crupier.puntos_ronda << "\n";
+                cout << ". Puntos actuales: " << mem->crupier.puntos_ronda << "\n" << endl;
             }
         } else if(decision == 'P') { //Muestra por pantalla el resultado.
             cout << "El Crupier se planta. Cartas: ";
@@ -351,8 +344,7 @@ void CrupierJuega(MemoriaCompartida *mem){
                     cout << mem->crupier.cartas_jugador[i].figura << "-" << mem->crupier.cartas_jugador[i].pinta << " / " ;
                 }
             }   
-            cout << "Puntos: " << mem->crupier.puntos_ronda << "\n";
-            cout << " ============================================= Turno del Crupier =============================================\n" << endl;
+            cout << "Puntos: " << mem->crupier.puntos_ronda << endl;
             break;
 
             } else {
@@ -363,54 +355,48 @@ void CrupierJuega(MemoriaCompartida *mem){
 }
 
 void determinarGanadorRonda(MemoriaCompartida *mem){
-    int jugadores_ganan = 0; //Cuenta la cantidad de jugadores que le ganaron al Crupier
-    int empate = 0; //Cuenta la cantidad de jugadores que empataron con Crupier
+    int crupier_gana = 0; //Cuenta a cuantos jugadores le gano el crupier
+    cout << "\n============================================ Distribución puntos ============================================" << endl;
 
     for(int i = 0; i < NUM_JUGADORES; i++){
         if(mem->jugadores[i].perdio){
-            cout << "Jugador " << i+1 << " se pasó de los puntos máximos.\n"; //Si el jugador se paso de 21 puntos, imprime el resultado por pantalla
+            cout << "Jugador " << i+1 << " se pasó de los puntos máximos." << endl; //Si el jugador se paso de 21 puntos, imprime el resultado por pantalla
+            if(!mem->crupier.perdio) crupier_gana++;
             continue;
         }
         //El jugador no perdió
         if (mem->crupier.perdio || (!mem->jugadores[i].perdio && mem->jugadores[i].puntos_ronda > mem->crupier.puntos_ronda)) {
             //Si el Crupier perdió, o si los puntos del jugador son mayores a los del Crupier se le da la victoria al Jugador y se suman los puntos
-            jugadores_ganan++;
             cout << "Jugador " << i+1 << " gana la ronda!\n";
             mem->jugadores[i].puntos += 1;
         } else if(mem->crupier.puntos_ronda == MAX_PUNTOS && mem->jugadores[i].puntos_ronda == MAX_PUNTOS){
             //Si crupier y jugador tienen 21 puntos, se le da por ganador a aquel que tenga menos cartas. Si gana el jugador se suman los puntos.
             if(mem->crupier.num_cartas <= mem->jugadores[i].num_cartas){
                 cout << "Jugador " << i+1 << " perdió con el Crupier\n";
+                crupier_gana++;
             } else {
-                jugadores_ganan++;
                 cout << "Jugador " << i+1 << " gana la ronda!\n";
                 mem->jugadores[i].puntos += 1;
             }
-        } else if(mem->crupier.puntos_ronda == mem->jugadores[i].puntos_ronda){
-            //Si tienen los mismos puntos, se da como empate.
-            cout << "Jugador " << i+1 << " no le ganó al Crupier\n";
-            empate++;
         } else {
             //caso por si no entra a ninguno de los ifs anteriores y tener un respaldo.
             cout << "Jugador " << i+1 << " perdió con el Crupier\n";
+            crupier_gana++;
         }
     }
     //Se reparten lo puntos al Crupier segun corresponda
-    if(jugadores_ganan == 0 && empate == 0){
+    if(crupier_gana == NUM_JUGADORES){
         //Si todos los jugadores pierden
         mem->crupier.puntos += 2;
-        cout << "Crupier gana 2 puntos (todos los jugadores perdieron)" << endl;
-    }else if(jugadores_ganan < (NUM_JUGADORES / 2) && empate < (NUM_JUGADORES / 2)){
+        cout << "Crupier gana 2 puntos (Todos los jugadores perdieron)" << endl;
+    }else if(crupier_gana == NUM_JUGADORES/2 + 1){
         //Si le ganó a 3 jugadores (la mayoría)
         mem->crupier.puntos += 1;
-        cout << "Crupier ganó 1 punto (ganó a la mayoría de los jugadores)" << endl;
-    } else if(jugadores_ganan == NUM_JUGADORES/2) {
-        //Si perdió con dos jugadores. (Implica perder con dos, ganar uno, empatar uno y todo lo que sea no ganarle a la mayoría [ganarle máximo a 2])
-        cout << "Crupier no ganó ningun punto esta ronda (El Crupier el ganó a solo 2 o menos jugadores) " << endl;
+        cout << "Crupier ganó 1 punto (Ganó a la mayoría de los jugadores)" << endl;
     } else {
-        //El crupier perdió con la mayoria de los jugadores
-        cout << "Crupier no ganó ningun punto esta ronda (3 jugadores o más ganaron) " << endl;
-    }
+        //Si perdió con dos jugadores. 
+        cout << "Crupier no ganó ningun punto esta ronda (El Crupier solo tuvo 2 o menos victorias) " << endl;
+    } 
 
 }
 
@@ -425,8 +411,6 @@ void mostrarEstado(MemoriaCompartida *mem){
     cout << "Crupier: " << mem->crupier.puntos << " puntos.";
     cout << endl;
 
-    cout << "============================================= Estado actual =============================================" << endl;
-    cout << endl;
 }
 
 void mostrarGanadorFinal(MemoriaCompartida *mem) {
