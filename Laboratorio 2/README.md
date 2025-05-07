@@ -15,9 +15,11 @@ make
 
 make run    
 ```
+Si se quiere ejecutar el código con valgrind se debe usar lo siguiente:
 ```
 make valgrind
 ```
+Si se quiere eliminar el ejecutable que deja la compilación se puede utilizar lo siguiente:
 ```
 make clear
 ```
