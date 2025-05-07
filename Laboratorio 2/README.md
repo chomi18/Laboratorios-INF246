@@ -2,9 +2,9 @@
 
 ### Integrantes:
 
-Tomás González, ROL: 202273609-7
+Tomás González, ROL: 202273609-7, Paralelo: 200
 
-David Kripper, ROL: 202273521-K
+David Kripper, ROL: 202273521-K, Paralelo: 200
 
 ### Instruciones de uso
 
