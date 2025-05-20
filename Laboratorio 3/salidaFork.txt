@@ -5,7 +5,7 @@
 4087 3623 3649 6242 4198
 2975 3780 3478 4631 3092
 
-tiempo = 0.00173492 segundos
+tiempo = 0.00154871 segundos
 
 101.txt
 
@@ -16,7 +16,7 @@ tiempo = 0.00173492 segundos
 2340 3636 504 2493 2508 2910
 998 1922 222 1112 1592 1487
 
-tiempo = 0.00169183 segundos
+tiempo = 0.00171967 segundos
 
 14.txt
 
@@ -27,7 +27,7 @@ tiempo = 0.00169183 segundos
 1745 2454 3218 3886 2130 2142
 4229 3152 4646 3166 2334 3188
 
-tiempo = 0.00146758 segundos
+tiempo = 0.00164558 segundos
 
 467.txt
 
@@ -35,7 +35,7 @@ tiempo = 0.00146758 segundos
 1331 1207 2198
 1661 2367 3303
 
-tiempo = 0.000945292 segundos
+tiempo = 0.000961959 segundos
 
 328.txt
 
@@ -46,7 +46,7 @@ tiempo = 0.000945292 segundos
 1482 402 1146 987 1083
 1358 2568 544 1543 2682
 
-tiempo = 0.00125983 segundos
+tiempo = 0.00138912 segundos
 
 472.txt
 
@@ -57,7 +57,7 @@ tiempo = 0.00125983 segundos
 4745 7120 4840 3575
 3367 4384 3534 2235
 
-tiempo = 0.00134225 segundos
+tiempo = 0.00135713 segundos
 
 466.txt
 
@@ -66,7 +66,7 @@ tiempo = 0.00134225 segundos
 5222 4717
 7664 5329
 
-tiempo = 0.000960209 segundos
+tiempo = 0.000914167 segundos
 
 499.txt
 
@@ -75,7 +75,7 @@ tiempo = 0.000960209 segundos
 3992 5306 4701 4712 5205 3824
 3823 3762 2536 4484 3003 2257
 
-tiempo = 0.00104962 segundos
+tiempo = 0.000811875 segundos
 
 102.txt
 
@@ -83,7 +83,7 @@ tiempo = 0.00104962 segundos
 738 2239 1896
 1414 1965 568
 
-tiempo = 0.000679542 segundos
+tiempo = 0.000692583 segundos
 
 17.txt
 
@@ -91,7 +91,7 @@ tiempo = 0.000679542 segundos
 2896 2680 2787 2324
 2205 4112 3069 2531
 
-tiempo = 0.000848875 segundos
+tiempo = 0.000670791 segundos
 
 270.txt
 
@@ -100,7 +100,7 @@ tiempo = 0.000848875 segundos
 3967 3154 2857 4333
 2276 2554 1606 2947
 
-tiempo = 0.000872166 segundos
+tiempo = 0.000809 segundos
 
 489.txt
 
@@ -110,7 +110,7 @@ tiempo = 0.000872166 segundos
 3980 2836 2934
 3837 2160 2266
 
-tiempo = 0.00102775 segundos
+tiempo = 0.000916958 segundos
 
 462.txt
 
@@ -119,7 +119,7 @@ tiempo = 0.00102775 segundos
 936 1492 768 1280 1824 864
 72 613 147 626 1254 594
 
-tiempo = 0.000757542 segundos
+tiempo = 0.00080975 segundos
 
 311.txt
 
@@ -129,7 +129,7 @@ tiempo = 0.000757542 segundos
 4168 2961 5049 2912 3386 5125
 4054 4245 4195 2927 3970 4603
 
-tiempo = 0.0009165 segundos
+tiempo = 0.0009645 segundos
 
 259.txt
 
@@ -138,14 +138,14 @@ tiempo = 0.0009165 segundos
 5096 3156
 6023 4265
 
-tiempo = 0.000781333 segundos
+tiempo = 0.000794417 segundos
 
 312.txt
 
 2062 2652 2955 3245 1127 2290
 799 1448 2497 2751 1271 2009
 
-tiempo = 0.000467792 segundos
+tiempo = 0.000518667 segundos
 
 474.txt
 
@@ -155,14 +155,14 @@ tiempo = 0.000467792 segundos
 3143 2993 4325 4472 3785
 3203 2201 4012 3830 4643
 
-tiempo = 0.000819416 segundos
+tiempo = 0.00086225 segundos
 
 104.txt
 
 1228 1016
 1736 1776
 
-tiempo = 0.001028 segundos
+tiempo = 0.000450042 segundos
 
 110.txt
 
@@ -172,7 +172,7 @@ tiempo = 0.001028 segundos
 4074 1413
 5556 2388
 
-tiempo = 0.00168221 segundos
+tiempo = 0.000832333 segundos
 
 138.txt
 
@@ -183,21 +183,21 @@ tiempo = 0.00168221 segundos
 3836 1605 6194
 4110 1773 5681
 
-tiempo = 0.00112462 segundos
+tiempo = 0.000958625 segundos
 
 299.txt
 
 2072 2293 1885 2073
 2962 2624 3168 3310
 
-tiempo = 0.00041525 segundos
+tiempo = 0.000445416 segundos
 
 201.txt
 
 678 765 213 870
 65 66 29 101
 
-tiempo = 0.000402083 segundos
+tiempo = 0.00039475 segundos
 
 361.txt
 
@@ -207,7 +207,7 @@ tiempo = 0.000402083 segundos
 1826 963 3225 1366
 1430 1826 1586 1611
 
-tiempo = 0.000762083 segundos
+tiempo = 0.000646625 segundos
 
 406.txt
 
@@ -216,7 +216,7 @@ tiempo = 0.000762083 segundos
 6014 4836 4058 4009 7688
 5896 4401 3058 3899 6370
 
-tiempo = 0.000636791 segundos
+tiempo = 0.000564959 segundos
 
 88.txt
 
@@ -224,7 +224,7 @@ tiempo = 0.000636791 segundos
 982 862
 1672 1114
 
-tiempo = 0.000506625 segundos
+tiempo = 0.000463167 segundos
 
 63.txt
 
@@ -234,14 +234,14 @@ tiempo = 0.000506625 segundos
 3152 1556 3860 4644 3522
 1524 678 2730 2712 1800
 
-tiempo = 0.000742666 segundos
+tiempo = 0.000672583 segundos
 
 228.txt
 
 2706 4207 1679
 3947 3509 1340
 
-tiempo = 0.000337 segundos
+tiempo = 0.000356958 segundos
 
 160.txt
 
@@ -249,7 +249,7 @@ tiempo = 0.000337 segundos
 2162 488 1544 1432
 2206 653 1744 1059
 
-tiempo = 0.000496292 segundos
+tiempo = 0.000475541 segundos
 
 148.txt
 
@@ -260,7 +260,7 @@ tiempo = 0.000496292 segundos
 1403 419 1892 2105 1833
 2311 1067 1718 2306 1331
 
-tiempo = 0.000680917 segundos
+tiempo = 0.000724958 segundos
 
 376.txt
 
@@ -268,7 +268,7 @@ tiempo = 0.000680917 segundos
 3144 1518 2596 1126
 3336 1633 2975 1284
 
-tiempo = 0.000397375 segundos
+tiempo = 0.000446667 segundos
 
 363.txt
 
@@ -278,14 +278,14 @@ tiempo = 0.000397375 segundos
 3782 3860 3843
 4484 3328 3816
 
-tiempo = 0.000606917 segundos
+tiempo = 0.000630917 segundos
 
 405.txt
 
 1395 2955 940 945
 951 2484 798 976
 
-tiempo = 0.000312042 segundos
+tiempo = 0.000351 segundos
 
 60.txt
 
@@ -295,7 +295,7 @@ tiempo = 0.000312042 segundos
 1936 3309
 2221 3124
 
-tiempo = 0.000590375 segundos
+tiempo = 0.000608167 segundos
 
 217.txt
 
@@ -304,21 +304,21 @@ tiempo = 0.000590375 segundos
 1519 2595 2669
 2497 3437 3505
 
-tiempo = 0.000515208 segundos
+tiempo = 0.000505834 segundos
 
 207.txt
 
 1479 2568
 850 1885
 
-tiempo = 0.000303791 segundos
+tiempo = 0.000350333 segundos
 
 64.txt
 
 1598 2126 3646 3863
 2197 3339 4721 4615
 
-tiempo = 0.000325791 segundos
+tiempo = 0.000330875 segundos
 
 171.txt
 
@@ -327,7 +327,7 @@ tiempo = 0.000325791 segundos
 2874 5618
 1397 3141
 
-tiempo = 0.000477083 segundos
+tiempo = 0.000506166 segundos
 
 414.txt
 
@@ -337,14 +337,14 @@ tiempo = 0.000477083 segundos
 1709 1081
 3810 2404
 
-tiempo = 0.000543125 segundos
+tiempo = 0.000596333 segundos
 
 399.txt
 
 3934 6880 4881 2675 5227
 1958 4322 3482 1808 3626
 
-tiempo = 0.000290666 segundos
+tiempo = 0.000340042 segundos
 
 212.txt
 
@@ -353,7 +353,7 @@ tiempo = 0.000290666 segundos
 2207 2878 1500 1579 1264 1641
 584 1784 1573 1119 1475 1408
 
-tiempo = 0.000442084 segundos
+tiempo = 0.000477417 segundos
 
 402.txt
 
@@ -364,14 +364,14 @@ tiempo = 0.000442084 segundos
 3626 3174 2625
 3010 1995 1450
 
-tiempo = 0.000589625 segundos
+tiempo = 0.000731958 segundos
 
 403.txt
 
 2497 2109 3035 2922
 3474 2782 3550 2784
 
-tiempo = 0.000271917 segundos
+tiempo = 0.000317417 segundos
 
 417.txt
 
@@ -382,7 +382,7 @@ tiempo = 0.000271917 segundos
 1606 165 2255
 4022 1552 2796
 
-tiempo = 0.00058725 segundos
+tiempo = 0.000678834 segundos
 
 173.txt
 
@@ -393,7 +393,7 @@ tiempo = 0.00058725 segundos
 3268 2817
 2148 2474
 
-tiempo = 0.000577125 segundos
+tiempo = 0.000645791 segundos
 
 205.txt
 
@@ -402,7 +402,7 @@ tiempo = 0.000577125 segundos
 2219 2287 2401 3701 6197
 1925 1921 1467 2995 3939
 
-tiempo = 0.00042225 segundos
+tiempo = 0.000474125 segundos
 
 239.txt
 
@@ -413,7 +413,7 @@ tiempo = 0.00042225 segundos
 1953 2741 1974 2519
 2622 2074 587 2543
 
-tiempo = 0.00108504 segundos
+tiempo = 0.000686917 segundos
 
 181.txt
 
@@ -422,14 +422,14 @@ tiempo = 0.00108504 segundos
 2237 2665 2338 3234 3211 2364
 3304 4944 3669 6032 4335 4056
 
-tiempo = 0.000435541 segundos
+tiempo = 0.0004725 segundos
 
 432.txt
 
 1632 1680 861 1381 1368 1605
 1976 1752 778 1258 1464 794
 
-tiempo = 0.000281417 segundos
+tiempo = 0.00029425 segundos
 
 382.txt
 
@@ -438,7 +438,7 @@ tiempo = 0.000281417 segundos
 5678 9295 3183
 4537 6976 1670
 
-tiempo = 0.000427791 segundos
+tiempo = 0.000460333 segundos
 
 95.txt
 
@@ -446,14 +446,14 @@ tiempo = 0.000427791 segundos
 5166 3927
 4647 3897
 
-tiempo = 0.000343 segundos
+tiempo = 0.000380292 segundos
 
 235.txt
 
 2314 2691 1014
 1992 2028 1392
 
-tiempo = 0.000280375 segundos
+tiempo = 0.0003045 segundos
 
 182.txt
 
@@ -461,14 +461,14 @@ tiempo = 0.000280375 segundos
 3849 2300 3760 3280
 3198 1599 2380 2569
 
-tiempo = 0.000364875 segundos
+tiempo = 0.000375542 segundos
 
 68.txt
 
 2806 3823 3101 4575 4268 2594
 447 1200 1143 1560 1101 483
 
-tiempo = 0.000284708 segundos
+tiempo = 0.000293458 segundos
 
 54.txt
 
@@ -479,7 +479,7 @@ tiempo = 0.000284708 segundos
 2385 2680
 1915 2936
 
-tiempo = 0.000585166 segundos
+tiempo = 0.000619125 segundos
 
 343.txt
 
@@ -487,14 +487,14 @@ tiempo = 0.000585166 segundos
 4201 3631 2770 1801
 2894 1956 1810 899
 
-tiempo = 0.000367083 segundos
+tiempo = 0.000377125 segundos
 
 431.txt
 
 1134 391 653 1962
 1302 403 689 2466
 
-tiempo = 0.000298417 segundos
+tiempo = 0.000296541 segundos
 
 418.txt
 
@@ -504,7 +504,7 @@ tiempo = 0.000298417 segundos
 1347 3620 3644 3409 4340 3189
 1111 1960 1990 1345 1462 1763
 
-tiempo = 0.000550542 segundos
+tiempo = 0.00055175 segundos
 
 356.txt
 
@@ -514,14 +514,14 @@ tiempo = 0.000550542 segundos
 663 1837 1659
 153 531 684
 
-tiempo = 0.000549625 segundos
+tiempo = 0.00053275 segundos
 
 168.txt
 
 4076 2969
 5174 3633
 
-tiempo = 0.000308792 segundos
+tiempo = 0.000292792 segundos
 
 82.txt
 
@@ -532,7 +532,7 @@ tiempo = 0.000308792 segundos
 2423 2824 4461
 2093 2721 3529
 
-tiempo = 0.000643542 segundos
+tiempo = 0.000628375 segundos
 
 236.txt
 
@@ -540,7 +540,7 @@ tiempo = 0.000643542 segundos
 1800 392
 3450 2194
 
-tiempo = 0.000419167 segundos
+tiempo = 0.000372667 segundos
 
 144.txt
 
@@ -549,7 +549,7 @@ tiempo = 0.000419167 segundos
 4419 6214 3849 4317 3580
 5023 6113 3975 2890 3646
 
-tiempo = 0.000543208 segundos
+tiempo = 0.000454792 segundos
 
 150.txt
 
@@ -560,7 +560,7 @@ tiempo = 0.000543208 segundos
 3711 1378 4196 1592 778 3955
 3477 965 2611 1277 2997 4243
 
-tiempo = 0.00119983 segundos
+tiempo = 0.000645917 segundos
 
 435.txt
 
@@ -570,7 +570,7 @@ tiempo = 0.00119983 segundos
 429 848 825
 291 692 625
 
-tiempo = 0.000563583 segundos
+tiempo = 0.000572417 segundos
 
 390.txt
 
@@ -581,7 +581,7 @@ tiempo = 0.000563583 segundos
 608 737 2596 1544
 441 215 1570 617
 
-tiempo = 0.000627042 segundos
+tiempo = 0.000643208 segundos
 
 423.txt
 
@@ -589,7 +589,7 @@ tiempo = 0.000627042 segundos
 3619 4337 2280 3984 1933
 4956 6174 2872 5291 2990
 
-tiempo = 0.000392292 segundos
+tiempo = 0.000390334 segundos
 
 422.txt
 
@@ -600,7 +600,7 @@ tiempo = 0.000392292 segundos
 4081 4505 3207 5819 2145
 2607 2865 2018 3898 2430
 
-tiempo = 0.000724 segundos
+tiempo = 0.000629 segundos
 
 185.txt
 
@@ -608,14 +608,14 @@ tiempo = 0.000724 segundos
 2497 2591
 3621 5142
 
-tiempo = 0.00038 segundos
+tiempo = 0.000382625 segundos
 
 218.txt
 
 2194 1820 2100
 2070 1845 2021
 
-tiempo = 0.000295375 segundos
+tiempo = 0.000292708 segundos
 
 243.txt
 
@@ -626,7 +626,7 @@ tiempo = 0.000295375 segundos
 1545 2750
 2919 2638
 
-tiempo = 0.00061625 segundos
+tiempo = 0.000624625 segundos
 
 322.txt
 
@@ -637,7 +637,7 @@ tiempo = 0.00061625 segundos
 1945 1785 2195 1735 2205
 1485 1425 1595 1455 1745
 
-tiempo = 0.000627083 segundos
+tiempo = 0.000625083 segundos
 
 450.txt
 
@@ -647,7 +647,7 @@ tiempo = 0.000627083 segundos
 2998 5043 3567 1180
 2729 4028 2637 1612
 
-tiempo = 0.000550916 segundos
+tiempo = 0.000540209 segundos
 
 336.txt
 
@@ -658,7 +658,7 @@ tiempo = 0.000550916 segundos
 2391 3266
 1901 2192
 
-tiempo = 0.000767416 segundos
+tiempo = 0.000623791 segundos
 
 35.txt
 
@@ -669,7 +669,7 @@ tiempo = 0.000767416 segundos
 4694 4535 2792 665 2975 2624
 3287 3196 2189 1078 2332 3074
 
-tiempo = 0.000637166 segundos
+tiempo = 0.000621792 segundos
 
 242.txt
 
@@ -679,7 +679,7 @@ tiempo = 0.000637166 segundos
 2885 1857 340 2716 2981 2298
 4753 3637 1498 5501 4204 3408
 
-tiempo = 0.000534208 segundos
+tiempo = 0.000533708 segundos
 
 136.txt
 
@@ -687,7 +687,7 @@ tiempo = 0.000534208 segundos
 3210 2674 3753 3532 3587
 3127 2449 4077 3065 3805
 
-tiempo = 0.000374917 segundos
+tiempo = 0.000374416 segundos
 
 485.txt
 
@@ -698,7 +698,7 @@ tiempo = 0.000374917 segundos
 3669 4226 4662 2498
 6325 5924 6467 4014
 
-tiempo = 0.00152267 segundos
+tiempo = 0.000682875 segundos
 
 491.txt
 
@@ -709,7 +709,7 @@ tiempo = 0.00152267 segundos
 5681 5189 3273 5210 5511
 4971 5573 1950 3825 3853
 
-tiempo = 0.00125158 segundos
+tiempo = 0.000611708 segundos
 
 447.txt
 
@@ -718,14 +718,14 @@ tiempo = 0.00125158 segundos
 3957 3089 2161
 3701 2893 2380
 
-tiempo = 0.000582208 segundos
+tiempo = 0.000456791 segundos
 
 490.txt
 
 4604 4062
 3555 4298
 
-tiempo = 0.000298125 segundos
+tiempo = 0.000292083 segundos
 
 484.txt
 
@@ -734,7 +734,7 @@ tiempo = 0.000298125 segundos
 5573 2432
 5220 1589
 
-tiempo = 0.000438958 segundos
+tiempo = 0.000452958 segundos
 
 127.txt
 
@@ -743,7 +743,7 @@ tiempo = 0.000438958 segundos
 5102 4338 3180
 4930 3040 4024
 
-tiempo = 0.000563542 segundos
+tiempo = 0.000517292 segundos
 
 133.txt
 
@@ -754,7 +754,7 @@ tiempo = 0.000563542 segundos
 710 802
 2498 2830
 
-tiempo = 0.000598125 segundos
+tiempo = 0.00063425 segundos
 
 443.txt
 
@@ -765,7 +765,7 @@ tiempo = 0.000598125 segundos
 2094 3010
 3877 4893
 
-tiempo = 0.000623625 segundos
+tiempo = 0.000622917 segundos
 
 442.txt
 
@@ -775,7 +775,7 @@ tiempo = 0.000623625 segundos
 3200 3739 4556 4097 4266
 3020 3118 3381 4463 3506
 
-tiempo = 0.000522125 segundos
+tiempo = 0.000539041 segundos
 
 126.txt
 
@@ -784,7 +784,7 @@ tiempo = 0.000522125 segundos
 2254 910 1638 707 1526 2604
 1008 410 640 311 288 932
 
-tiempo = 0.000433166 segundos
+tiempo = 0.000456583 segundos
 
 31.txt
 
@@ -792,7 +792,7 @@ tiempo = 0.000433166 segundos
 3075 3096 3455 3748 1288 2912
 4258 5271 3580 5071 1286 3516
 
-tiempo = 0.000368459 segundos
+tiempo = 0.000381291 segundos
 
 497.txt
 
@@ -801,7 +801,7 @@ tiempo = 0.000368459 segundos
 2059 2930 3074 2435 2330 1169
 1632 2196 2137 1661 1896 1132
 
-tiempo = 0.000438125 segundos
+tiempo = 0.000469833 segundos
 
 326.txt
 
@@ -809,7 +809,7 @@ tiempo = 0.000438125 segundos
 3338 5163 2232 3379 2991
 3673 4757 2354 3879 3008
 
-tiempo = 0.000364334 segundos
+tiempo = 0.000374291 segundos
 
 333.txt
 
@@ -818,7 +818,7 @@ tiempo = 0.000364334 segundos
 3128 3266 3036
 1705 1992 1657
 
-tiempo = 0.000462125 segundos
+tiempo = 0.000521417 segundos
 
 482.txt
 
@@ -829,5 +829,5 @@ tiempo = 0.000462125 segundos
 2246 2702 2518 2277 1887 1808
 2208 1664 2408 1660 1404 948
 
-tiempo = 0.000635125 segundos
+tiempo = 0.00061325 segundos
 
