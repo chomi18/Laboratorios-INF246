@@ -121,7 +121,7 @@ int main(){
 
 
     // acá cambiar el path del directorio según convenga
-    const fs::path carpetaData = "/Users/davidkripper/Library/CloudStorage/OneDrive-Personal/Universidad/FourthY/1/SO/Laboratorios-INF246/Laboratorio 3/archivos_de_prueba/data";
+    const fs::path carpetaData = "/Users/davidkripper/Library/CloudStorage/OneDrive-Personal/Universidad/FourthY/1/SO/Laboratorios-INF246/Laboratorio 3/archivos_de_prueba/easy";
 
     ofstream salida("salidaFork.txt", ios::trunc);
     
