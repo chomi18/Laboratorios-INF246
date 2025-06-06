@@ -28,5 +28,5 @@ run: $(out_cpp) $(out_java_class)
 	@echo "=== Ejecutando programa Java ==="
 	java LAB3_Kripper_Gonzalez_BONUS
 
-clean:
+clear:
 	rm -f $(out_cpp) $(out_java_class)
