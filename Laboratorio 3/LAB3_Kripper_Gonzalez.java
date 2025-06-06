@@ -8,14 +8,14 @@ import java.util.Comparator;
 import java.util.Arrays;
 
 public class LAB3_Kripper_Gonzalez {
-
+    static final String carpetaLectura = "easy"; //Aqui escribir la direccion de la carpeta donde se encuentran los archivos a analizar
     static int[][] matrizA, matrizB, resultado;
     static int filasA, columnasA, filasB, columnasB;
 
     public static void main(String[] args) throws Exception {
-        File carpeta = new File("easy"); //Carpeta donde se extraeran los archivos para lectura
+        File carpeta = new File(carpetaLectura);
         File[] archivos = carpeta.listFiles((dir, name) -> name.matches("\\d+\\.txt"));  // Arreglo con los nombres de los archivos extraidos de la carpeta
-
+        //Si no se encontraron archivos en la carpeta
         if (archivos == null || archivos.length == 0) {
             System.out.println("No se encontraron archivos válidos en la carpeta");
             return;
@@ -29,10 +29,10 @@ public class LAB3_Kripper_Gonzalez {
             String nombreArchivo = archivo.getName();
 
             try {
-                leerArchivo("easy/" + nombreArchivo);
-                //Si los tamaños de las matrices no coinciden lo escribe en ela rchivo y no hace el calculo de la matriz correspondiente. Pasa al siguiente archivo
+                leerArchivo(carpetaLectura + "/" + nombreArchivo);
+                //Si los tamaños de las matrices no coinciden lo escribe en el archivo y no hace el calculo de la multiplicación correspondiente. Pasa al siguiente archivo
                 if (columnasA != filasB) {
-                    throw new IllegalArgumentException("Los tamaños de las matrices no coinciden");
+                    throw new IllegalArgumentException("Los tamaños de las matrices no coinciden"); //Declara el error en caso de que las dimensiones de las matrices no coincidan
                 }
 
                 resultado = new int[filasA][columnasB];
@@ -55,7 +55,7 @@ public class LAB3_Kripper_Gonzalez {
                 escribirResultadoEnArchivo(bw, nombreArchivo, tiempoSegundos);
 
             } catch (IllegalArgumentException e) {
-                escribirErrorEnArchivo(bw, nombreArchivo, e.getMessage());
+                escribirErrorEnArchivo(bw, nombreArchivo, e.getMessage()); //Escribe en el archivo el error de que las dimensiones de las matrices no coinciden
             } catch (Exception e) {
                 escribirErrorEnArchivo(bw, nombreArchivo, "Error inesperado: " + e.getMessage());
             }
