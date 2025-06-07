@@ -15,6 +15,8 @@ make
 
 make run    
 ```
+Esto compilará y correrá ambos programas, el de Forks & Pipes y el de Threads. 
+Para el BONUS funciona de la misma manera. Dentro de la carpeta con dicho nombre, se encontrará otro makefile que compilará y correrá también ambos programas para el BONUS.
 
 Si se quiere eliminar el ejecutable que deja la compilación se puede utilizar lo siguiente:
 ```
@@ -43,8 +45,24 @@ Las funciones creadas fueron:
 
 ### Explicación del código de Java
 
+Las funciones creadas fueron:
+
+- **leerArchivo:** Lee el archivo donde se encuentran las amtrices a multiplicar y almacena los datos y valores en las variables correspondientes.
+- **multiplicarFila:** Hace la multiplicación para una fila de la matriz resultante.
+- **escribirResultadoEnArchivo:** Escribe la matriz resultante de la multiplicación en el archivo de salida. Escribe además el archivo correspondiente a la multiplicación, así como el tiempo que se demoró en realizar la multiplicación.
+- **escribirErrorEnArchivo:** En caso de que se encuentre un error, lo escribe en el archivo de salida.
+
+### Explicación del código en Java para el BONUS
+
+Las funciones creadas fueron:
+
+- **multiplicarMatrices:** Se encarga de realizar la multiplicación de las matrices del archivo utilizando hebras. Retorna la matriz resultante de dicha multiplicación.
+- **multiplicarFila:** Hace la multiplicación para una fila de la matriz resultante.
+- **esSimetrica:** Se encarga de hacer la evaluación de si una matriz es simétrica. Retorna _true_ o _false_ según sea el caso.
+
 ### Supuestos utilizados
 
 * Se asume que los archivos vienen en el formato del enunciado de la tarea.
 * Se asume que se tienen instaladas las librerías utilizadas.
 * Se asume que los .txt utilizados no están vacios.
+* Se asume que las carpetas donde se encuentran las matrices a multiplicar estarán en la ubicación junto a los programas o que se escribirá la dirección de dicha carpeta en las variables correspondietnes dentro de los programas.
