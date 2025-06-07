@@ -12,10 +12,10 @@ public class LAB3_Kripper_Gonzalez_BONUS {
     static final String carpetaLectura = "medium"; //Aqui escribir la direccion de la carpeta donde se encuentran los archivos a analizar
     public static void main(String[] args) {
         File carpeta = new File(carpetaLectura);
-        File[] archivos = carpeta.listFiles((dir, name) -> name.matches("\\d+\\.txt")); // Arreglo con los nombres de los archivos extraidos de la carpeta
+        File[] archivos = carpeta.listFiles((_, name) -> name.matches("\\d+\\.txt")); // Arreglo con los nombres de los archivos extraidos de la carpeta
         //Si no se encontraron archivos en la carpeta
         if (archivos == null || archivos.length == 0) {
-            System.out.println("No se encontraron archivos en la carpeta bonus/");
+            System.out.println("No se encontraron archivos en la carpeta");
             return;
         }
         //Crea el buffer de escritura para la salida
@@ -111,7 +111,6 @@ public class LAB3_Kripper_Gonzalez_BONUS {
      */
     static int[][] multiplicarMatrices(int[][] matrizA, int[][] matrizB) {
         int filasA = matrizA.length;
-        int columnasA = matrizA[0].length;
         int columnasB = matrizB[0].length;
         int[][] resultado = new int[filasA][columnasB];
 

@@ -14,7 +14,7 @@ public class LAB3_Kripper_Gonzalez {
 
     public static void main(String[] args) throws Exception {
         File carpeta = new File(carpetaLectura);
-        File[] archivos = carpeta.listFiles((dir, name) -> name.matches("\\d+\\.txt"));  // Arreglo con los nombres de los archivos extraidos de la carpeta
+        File[] archivos = carpeta.listFiles((_, name) -> name.matches("\\d+\\.txt"));  // Arreglo con los nombres de los archivos extraidos de la carpeta
         //Si no se encontraron archivos en la carpeta
         if (archivos == null || archivos.length == 0) {
             System.out.println("No se encontraron archivos válidos en la carpeta");
