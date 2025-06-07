@@ -66,3 +66,4 @@ Las funciones creadas fueron:
 * Se asume que se tienen instaladas las librerías utilizadas.
 * Se asume que los .txt utilizados no están vacios.
 * Se asume que las carpetas donde se encuentran las matrices a multiplicar estarán en la ubicación junto a los programas o que se escribirá la dirección de dicha carpeta en las variables correspondietnes dentro de los programas.
+* Ambos programas (C++ y Java para normal y BONUS) escriben los resultados de las matrices y la información correspondiente en un solo archivo de salida, resultando en 4 en total. (1 para C++ normal y otro para BONUS y 1 para Java normal y otro para BONUS).
