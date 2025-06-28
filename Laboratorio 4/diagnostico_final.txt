@@ -1,512 +1,512 @@
-Celula-000 Alienígena (R3)
-Celula-001 Humano
+Celula-000 Humana
+Celula-001 Alienígena (R5)
 Celula-002 Alienígena (R5)
-Celula-003 Humano
-Celula-004 Alienígena (R5)
-Celula-005 Alienígena (R3)
-Celula-006 Humano
-Celula-007 Humano
-Celula-008 Humano
-Celula-009 Alienígena (R5)
-Celula-010 Humano
-Celula-011 Alienígena (R5)
-Celula-012 Humano
-Celula-013 Humano
-Celula-014 Humano
-Celula-015 Humano
-Celula-016 Alienígena (R3)
-Celula-017 Humano
-Celula-018 Alienígena (R1)
-Celula-019 Alienígena (R3)
-Celula-020 Humano
+Celula-003 Humana
+Celula-004 Humana
+Celula-005 Humana
+Celula-006 Alienígena
+Celula-007 Humana
+Celula-008 Humana
+Celula-009 Humana
+Celula-010 Humana
+Celula-011 Alienígena (R3)
+Celula-012 Humana
+Celula-013 Humana
+Celula-014 Alienígena (R4)
+Celula-015 Humana
+Celula-016 Alienígena (R5)
+Celula-017 Humana
+Celula-018 Humana
+Celula-019 Alienígena (R1)
+Celula-020 Humana
 Celula-021 Alienígena (R3)
-Celula-022 Humano
-Celula-023 Alienígena (R5)
-Celula-024 Humano
-Celula-025 Alienígena (R2)
-Celula-026 Alienígena (R5)
-Celula-027 Alienígena (R5)
-Celula-028 Humano
-Celula-029 Humano
-Celula-030 Humano
-Celula-031 Humano
-Celula-032 Alienígena (R5)
+Celula-022 Alienígena (R5)
+Celula-023 Alienígena (R4)
+Celula-024 Humana
+Celula-025 Humana
+Celula-026 Humana
+Celula-027 Humana
+Celula-028 Humana
+Celula-029 Humana
+Celula-030 Humana
+Celula-031 Humana
+Celula-032 Humana
 Celula-033 Alienígena (R4)
-Celula-034 Humano
-Celula-035 Humano
-Celula-036 Humano
-Celula-037 Humano
-Celula-038 Humano
-Celula-039 Humano
-Celula-040 Humano
-Celula-041 Alienígena (R3)
-Celula-042 Humano
-Celula-043 Alienígena
-Celula-044 Humano
-Celula-045 Humano
-Celula-046 Humano
-Celula-047 Humano
-Celula-048 Humano
+Celula-034 Humana
+Celula-035 Humana
+Celula-036 Humana
+Celula-037 Humana
+Celula-038 Humana
+Celula-039 Humana
+Celula-040 Alienígena (R3)
+Celula-041 Humana
+Celula-042 Alienígena (R4)
+Celula-043 Alienígena (R5)
+Celula-044 Humana
+Celula-045 Humana
+Celula-046 Alienígena (R4)
+Celula-047 Humana
+Celula-048 Humana
 Celula-049 Alienígena (R5)
-Celula-050 Humano
-Celula-051 Alienígena (R5)
-Celula-052 Humano
-Celula-053 Alienígena (R5)
-Celula-054 Humano
-Celula-055 Humano
-Celula-056 Humano
-Celula-057 Humano
-Celula-058 Humano
-Celula-059 Humano
-Celula-060 Humano
-Celula-061 Humano
-Celula-062 Humano
-Celula-063 Humano
-Celula-064 Humano
-Celula-065 Humano
-Celula-066 Humano
-Celula-067 Alienígena (R5)
-Celula-068 Humano
-Celula-069 Humano
-Celula-070 Alienígena (R3)
+Celula-050 Humana
+Celula-051 Humana
+Celula-052 Alienígena (R4)
+Celula-053 Humana
+Celula-054 Alienígena (R5)
+Celula-055 Humana
+Celula-056 Alienígena (R4)
+Celula-057 Humana
+Celula-058 Alienígena (R4)
+Celula-059 Humana
+Celula-060 Humana
+Celula-061 Alienígena (R5)
+Celula-062 Humana
+Celula-063 Alienígena (R5)
+Celula-064 Humana
+Celula-065 Humana
+Celula-066 Alienígena (R5)
+Celula-067 Humana
+Celula-068 Humana
+Celula-069 Humana
+Celula-070 Humana
 Celula-071 Alienígena (R4)
-Celula-072 Alienígena (R1)
-Celula-073 Humano
-Celula-074 Alienígena (R2)
-Celula-075 Humano
-Celula-076 Humano
-Celula-077 Humano
-Celula-078 Humano
-Celula-079 Humano
-Celula-080 Alienígena (R1)
-Celula-081 Humano
-Celula-082 Humano
-Celula-083 Humano
-Celula-084 Humano
-Celula-085 Humano
-Celula-086 Alienígena (R1)
-Celula-087 Humano
-Celula-088 Humano
-Celula-089 Humano
-Celula-090 Humano
-Celula-091 Humano
-Celula-092 Humano
-Celula-093 Alienígena (R5)
-Celula-094 Humano
-Celula-095 Humano
-Celula-096 Humano
-Celula-097 Humano
-Celula-098 Humano
-Celula-099 Humano
-Celula-100 Alienígena (R4)
-Celula-101 Humano
-Celula-102 Alienígena (R5)
-Celula-103 Humano
-Celula-104 Humano
-Celula-105 Humano
-Celula-106 Alienígena (R5)
-Celula-107 Alienígena (R2)
-Celula-108 Humano
-Celula-109 Humano
-Celula-110 Alienígena (R5)
-Celula-111 Humano
-Celula-112 Alienígena (R4)
-Celula-113 Humano
-Celula-114 Alienígena (R3)
-Celula-115 Humano
-Celula-116 Humano
-Celula-117 Humano
+Celula-072 Alienígena (R5)
+Celula-073 Alienígena (R5)
+Celula-074 Humana
+Celula-075 Humana
+Celula-076 Alienígena (R1)
+Celula-077 Alienígena (R5)
+Celula-078 Humana
+Celula-079 Alienígena (R5)
+Celula-080 Humana
+Celula-081 Humana
+Celula-082 Humana
+Celula-083 Humana
+Celula-084 Humana
+Celula-085 Humana
+Celula-086 Humana
+Celula-087 Alienígena (R4)
+Celula-088 Humana
+Celula-089 Alienígena (R4)
+Celula-090 Humana
+Celula-091 Alienígena (R5)
+Celula-092 Humana
+Celula-093 Humana
+Celula-094 Humana
+Celula-095 Alienígena (R3)
+Celula-096 Humana
+Celula-097 Humana
+Celula-098 Humana
+Celula-099 Humana
+Celula-100 Humana
+Celula-101 Alienígena (R5)
+Celula-102 Humana
+Celula-103 Alienígena (R4)
+Celula-104 Humana
+Celula-105 Humana
+Celula-106 Humana
+Celula-107 Alienígena (R4)
+Celula-108 Alienígena (R2)
+Celula-109 Humana
+Celula-110 Humana
+Celula-111 Humana
+Celula-112 Alienígena
+Celula-113 Humana
+Celula-114 Humana
+Celula-115 Humana
+Celula-116 Alienígena (R3)
+Celula-117 Alienígena (R4)
 Celula-118 Alienígena (R4)
-Celula-119 Humano
-Celula-120 Humano
-Celula-121 Humano
-Celula-122 Humano
-Celula-123 Humano
-Celula-124 Humano
-Celula-125 Alienígena (R5)
-Celula-126 Humano
-Celula-127 Humano
-Celula-128 Humano
-Celula-129 Alienígena (R2)
-Celula-130 Humano
-Celula-131 Humano
-Celula-132 Humano
-Celula-133 Alienígena (R5)
-Celula-134 Alienígena (R4)
-Celula-135 Humano
-Celula-136 Alienígena (R5)
-Celula-137 Humano
-Celula-138 Alienígena (R3)
-Celula-139 Humano
-Celula-140 Alienígena (R1)
-Celula-141 Alienígena (R4)
-Celula-142 Alienígena (R5)
-Celula-143 Alienígena (R3)
-Celula-144 Humano
-Celula-145 Humano
-Celula-146 Humano
-Celula-147 Alienígena (R5)
-Celula-148 Alienígena
-Celula-149 Alienígena (R1)
-Celula-150 Humano
-Celula-151 Humano
+Celula-119 Alienígena (R3)
+Celula-120 Humana
+Celula-121 Humana
+Celula-122 Alienígena (R4)
+Celula-123 Alienígena (R3)
+Celula-124 Humana
+Celula-125 Humana
+Celula-126 Humana
+Celula-127 Humana
+Celula-128 Alienígena (R2)
+Celula-129 Humana
+Celula-130 Alienígena
+Celula-131 Humana
+Celula-132 Humana
+Celula-133 Alienígena (R2)
+Celula-134 Humana
+Celula-135 Alienígena (R3)
+Celula-136 Humana
+Celula-137 Alienígena
+Celula-138 Humana
+Celula-139 Humana
+Celula-140 Humana
+Celula-141 Alienígena
+Celula-142 Alienígena (R4)
+Celula-143 Humana
+Celula-144 Alienígena (R4)
+Celula-145 Humana
+Celula-146 Humana
+Celula-147 Humana
+Celula-148 Humana
+Celula-149 Alienígena (R5)
+Celula-150 Humana
+Celula-151 Humana
 Celula-152 Alienígena (R5)
-Celula-153 Humano
-Celula-154 Humano
-Celula-155 Alienígena (R4)
-Celula-156 Humano
-Celula-157 Humano
-Celula-158 Alienígena (R3)
-Celula-159 Humano
-Celula-160 Alienígena (R5)
-Celula-161 Humano
-Celula-162 Humano
-Celula-163 Alienígena (R5)
-Celula-164 Alienígena (R3)
-Celula-165 Humano
-Celula-166 Humano
-Celula-167 Humano
-Celula-168 Humano
-Celula-169 Alienígena (R4)
-Celula-170 Humano
-Celula-171 Humano
-Celula-172 Alienígena (R5)
-Celula-173 Alienígena (R3)
-Celula-174 Humano
-Celula-175 Humano
-Celula-176 Humano
-Celula-177 Alienígena (R4)
-Celula-178 Humano
-Celula-179 Humano
-Celula-180 Humano
-Celula-181 Alienígena (R3)
+Celula-153 Humana
+Celula-154 Alienígena (R1)
+Celula-155 Humana
+Celula-156 Alienígena (R4)
+Celula-157 Alienígena
+Celula-158 Humana
+Celula-159 Alienígena (R5)
+Celula-160 Humana
+Celula-161 Humana
+Celula-162 Alienígena (R1)
+Celula-163 Humana
+Celula-164 Alienígena (R5)
+Celula-165 Humana
+Celula-166 Alienígena
+Celula-167 Alienígena (R3)
+Celula-168 Alienígena (R5)
+Celula-169 Alienígena (R2)
+Celula-170 Humana
+Celula-171 Alienígena (R4)
+Celula-172 Alienígena (R3)
+Celula-173 Alienígena (R4)
+Celula-174 Humana
+Celula-175 Humana
+Celula-176 Alienígena (R5)
+Celula-177 Humana
+Celula-178 Alienígena (R5)
+Celula-179 Humana
+Celula-180 Alienígena (R1)
+Celula-181 Humana
 Celula-182 Alienígena (R5)
-Celula-183 Alienígena (R2)
-Celula-184 Humano
-Celula-185 Alienígena
-Celula-186 Humano
-Celula-187 Humano
-Celula-188 Humano
-Celula-189 Alienígena (R1)
-Celula-190 Alienígena (R2)
-Celula-191 Humano
-Celula-192 Humano
-Celula-193 Alienígena (R5)
-Celula-194 Humano
-Celula-195 Humano
-Celula-196 Alienígena (R5)
-Celula-197 Humano
-Celula-198 Alienígena (R4)
-Celula-199 Humano
-Celula-200 Alienígena
-Celula-201 Alienígena (R2)
-Celula-202 Alienígena (R5)
+Celula-183 Alienígena (R5)
+Celula-184 Alienígena (R4)
+Celula-185 Humana
+Celula-186 Humana
+Celula-187 Humana
+Celula-188 Humana
+Celula-189 Humana
+Celula-190 Humana
+Celula-191 Humana
+Celula-192 Alienígena
+Celula-193 Humana
+Celula-194 Alienígena (R5)
+Celula-195 Humana
+Celula-196 Alienígena (R4)
+Celula-197 Humana
+Celula-198 Humana
+Celula-199 Humana
+Celula-200 Alienígena (R4)
+Celula-201 Humana
+Celula-202 Humana
 Celula-203 Alienígena (R5)
-Celula-204 Alienígena (R4)
-Celula-205 Humano
-Celula-206 Alienígena (R3)
-Celula-207 Humano
-Celula-208 Humano
-Celula-209 Humano
-Celula-210 Humano
-Celula-211 Humano
-Celula-212 Alienígena (R4)
-Celula-213 Humano
-Celula-214 Alienígena (R4)
-Celula-215 Humano
-Celula-216 Humano
-Celula-217 Alienígena (R5)
-Celula-218 Alienígena (R2)
-Celula-219 Humano
-Celula-220 Alienígena (R4)
-Celula-221 Humano
-Celula-222 Humano
-Celula-223 Humano
-Celula-224 Alienígena (R3)
-Celula-225 Alienígena (R3)
-Celula-226 Humano
-Celula-227 Humano
-Celula-228 Humano
-Celula-229 Alienígena
-Celula-230 Humano
-Celula-231 Humano
-Celula-232 Humano
-Celula-233 Humano
-Celula-234 Alienígena
-Celula-235 Alienígena (R5)
-Celula-236 Humano
-Celula-237 Alienígena (R5)
-Celula-238 Humano
-Celula-239 Humano
-Celula-240 Alienígena (R3)
-Celula-241 Humano
-Celula-242 Humano
-Celula-243 Humano
-Celula-244 Humano
-Celula-245 Alienígena (R3)
-Celula-246 Alienígena (R5)
-Celula-247 Alienígena (R5)
-Celula-248 Humano
-Celula-249 Alienígena (R4)
-Celula-250 Humano
-Celula-251 Humano
-Celula-252 Humano
-Celula-253 Humano
-Celula-254 Humano
-Celula-255 Humano
-Celula-256 Humano
-Celula-257 Humano
+Celula-204 Humana
+Celula-205 Humana
+Celula-206 Humana
+Celula-207 Humana
+Celula-208 Humana
+Celula-209 Alienígena (R3)
+Celula-210 Alienígena (R4)
+Celula-211 Humana
+Celula-212 Humana
+Celula-213 Alienígena (R2)
+Celula-214 Humana
+Celula-215 Humana
+Celula-216 Humana
+Celula-217 Humana
+Celula-218 Humana
+Celula-219 Humana
+Celula-220 Alienígena (R2)
+Celula-221 Humana
+Celula-222 Alienígena (R2)
+Celula-223 Humana
+Celula-224 Alienígena (R5)
+Celula-225 Humana
+Celula-226 Humana
+Celula-227 Humana
+Celula-228 Humana
+Celula-229 Humana
+Celula-230 Humana
+Celula-231 Alienígena
+Celula-232 Alienígena (R4)
+Celula-233 Alienígena (R5)
+Celula-234 Humana
+Celula-235 Humana
+Celula-236 Alienígena (R3)
+Celula-237 Humana
+Celula-238 Humana
+Celula-239 Humana
+Celula-240 Humana
+Celula-241 Humana
+Celula-242 Humana
+Celula-243 Humana
+Celula-244 Humana
+Celula-245 Humana
+Celula-246 Alienígena
+Celula-247 Humana
+Celula-248 Humana
+Celula-249 Alienígena
+Celula-250 Alienígena (R2)
+Celula-251 Humana
+Celula-252 Alienígena (R4)
+Celula-253 Humana
+Celula-254 Humana
+Celula-255 Humana
+Celula-256 Humana
+Celula-257 Alienígena (R3)
 Celula-258 Alienígena (R5)
-Celula-259 Humano
+Celula-259 Humana
 Celula-260 Alienígena (R5)
-Celula-261 Humano
-Celula-262 Humano
-Celula-263 Humano
-Celula-264 Humano
-Celula-265 Humano
-Celula-266 Humano
-Celula-267 Alienígena (R4)
-Celula-268 Alienígena (R4)
-Celula-269 Alienígena (R1)
-Celula-270 Humano
-Celula-271 Humano
-Celula-272 Humano
-Celula-273 Humano
-Celula-274 Humano
-Celula-275 Alienígena (R3)
+Celula-261 Alienígena (R4)
+Celula-262 Alienígena (R4)
+Celula-263 Alienígena (R4)
+Celula-264 Humana
+Celula-265 Humana
+Celula-266 Humana
+Celula-267 Humana
+Celula-268 Humana
+Celula-269 Alienígena (R4)
+Celula-270 Alienígena (R4)
+Celula-271 Humana
+Celula-272 Alienígena
+Celula-273 Humana
+Celula-274 Alienígena
+Celula-275 Humana
 Celula-276 Alienígena (R3)
-Celula-277 Humano
-Celula-278 Alienígena (R5)
-Celula-279 Alienígena (R5)
-Celula-280 Alienígena (R3)
-Celula-281 Humano
-Celula-282 Humano
-Celula-283 Humano
-Celula-284 Alienígena
-Celula-285 Humano
-Celula-286 Alienígena (R4)
+Celula-277 Humana
+Celula-278 Humana
+Celula-279 Humana
+Celula-280 Humana
+Celula-281 Humana
+Celula-282 Humana
+Celula-283 Humana
+Celula-284 Humana
+Celula-285 Humana
+Celula-286 Humana
 Celula-287 Alienígena (R5)
-Celula-288 Humano
-Celula-289 Humano
-Celula-290 Humano
-Celula-291 Humano
+Celula-288 Humana
+Celula-289 Humana
+Celula-290 Humana
+Celula-291 Alienígena (R2)
 Celula-292 Alienígena (R4)
-Celula-293 Humano
-Celula-294 Alienígena (R5)
-Celula-295 Alienígena (R3)
-Celula-296 Humano
-Celula-297 Humano
-Celula-298 Humano
-Celula-299 Humano
-Celula-300 Alienígena (R5)
-Celula-301 Alienígena (R5)
-Celula-302 Humano
-Celula-303 Alienígena (R5)
-Celula-304 Humano
-Celula-305 Humano
-Celula-306 Humano
-Celula-307 Humano
-Celula-308 Humano
-Celula-309 Alienígena
-Celula-310 Alienígena (R5)
-Celula-311 Humano
-Celula-312 Alienígena (R2)
-Celula-313 Humano
-Celula-314 Alienígena (R5)
-Celula-315 Humano
-Celula-316 Alienígena (R4)
-Celula-317 Alienígena (R4)
-Celula-318 Alienígena (R2)
-Celula-319 Alienígena (R1)
-Celula-320 Humano
-Celula-321 Humano
-Celula-322 Humano
-Celula-323 Humano
-Celula-324 Alienígena
-Celula-325 Alienígena
-Celula-326 Humano
-Celula-327 Alienígena (R3)
-Celula-328 Humano
-Celula-329 Alienígena (R3)
-Celula-330 Humano
-Celula-331 Humano
-Celula-332 Humano
-Celula-333 Humano
-Celula-334 Humano
-Celula-335 Humano
-Celula-336 Alienígena (R5)
-Celula-337 Humano
-Celula-338 Humano
-Celula-339 Humano
-Celula-340 Humano
-Celula-341 Humano
-Celula-342 Humano
-Celula-343 Humano
-Celula-344 Humano
-Celula-345 Humano
-Celula-346 Humano
-Celula-347 Alienígena (R5)
-Celula-348 Humano
-Celula-349 Humano
-Celula-350 Humano
-Celula-351 Humano
-Celula-352 Humano
-Celula-353 Humano
-Celula-354 Humano
-Celula-355 Humano
-Celula-356 Alienígena (R4)
-Celula-357 Humano
-Celula-358 Alienígena (R4)
-Celula-359 Alienígena (R5)
-Celula-360 Humano
-Celula-361 Alienígena (R5)
-Celula-362 Alienígena (R5)
-Celula-363 Humano
-Celula-364 Alienígena (R5)
-Celula-365 Humano
-Celula-366 Alienígena (R2)
-Celula-367 Humano
-Celula-368 Alienígena (R3)
-Celula-369 Alienígena
-Celula-370 Humano
-Celula-371 Alienígena (R5)
-Celula-372 Humano
-Celula-373 Humano
-Celula-374 Alienígena
-Celula-375 Alienígena (R4)
-Celula-376 Alienígena (R4)
-Celula-377 Humano
-Celula-378 Humano
-Celula-379 Alienígena (R5)
-Celula-380 Alienígena (R2)
-Celula-381 Humano
-Celula-382 Humano
-Celula-383 Humano
-Celula-384 Alienígena (R5)
-Celula-385 Alienígena (R3)
-Celula-386 Humano
-Celula-387 Humano
-Celula-388 Humano
-Celula-389 Humano
-Celula-390 Humano
+Celula-293 Humana
+Celula-294 Humana
+Celula-295 Humana
+Celula-296 Humana
+Celula-297 Humana
+Celula-298 Alienígena (R1)
+Celula-299 Alienígena (R5)
+Celula-300 Humana
+Celula-301 Humana
+Celula-302 Alienígena (R5)
+Celula-303 Humana
+Celula-304 Alienígena (R2)
+Celula-305 Humana
+Celula-306 Eliminada
+Celula-307 Humana
+Celula-308 Alienígena (R5)
+Celula-309 Humana
+Celula-310 Alienígena (R3)
+Celula-311 Humana
+Celula-312 Alienígena (R5)
+Celula-313 Humana
+Celula-314 Alienígena (R3)
+Celula-315 Humana
+Celula-316 Humana
+Celula-317 Humana
+Celula-318 Alienígena (R1)
+Celula-319 Humana
+Celula-320 Humana
+Celula-321 Humana
+Celula-322 Alienígena (R3)
+Celula-323 Humana
+Celula-324 Alienígena (R5)
+Celula-325 Humana
+Celula-326 Humana
+Celula-327 Humana
+Celula-328 Humana
+Celula-329 Alienígena (R5)
+Celula-330 Humana
+Celula-331 Alienígena (R5)
+Celula-332 Humana
+Celula-333 Humana
+Celula-334 Alienígena (R3)
+Celula-335 Alienígena (R5)
+Celula-336 Humana
+Celula-337 Alienígena (R5)
+Celula-338 Humana
+Celula-339 Humana
+Celula-340 Humana
+Celula-341 Humana
+Celula-342 Humana
+Celula-343 Alienígena (R5)
+Celula-344 Humana
+Celula-345 Humana
+Celula-346 Humana
+Celula-347 Humana
+Celula-348 Humana
+Celula-349 Humana
+Celula-350 Humana
+Celula-351 Humana
+Celula-352 Humana
+Celula-353 Humana
+Celula-354 Humana
+Celula-355 Humana
+Celula-356 Humana
+Celula-357 Humana
+Celula-358 Alienígena (R5)
+Celula-359 Humana
+Celula-360 Humana
+Celula-361 Humana
+Celula-362 Humana
+Celula-363 Humana
+Celula-364 Humana
+Celula-365 Humana
+Celula-366 Alienígena (R5)
+Celula-367 Alienígena (R4)
+Celula-368 Humana
+Celula-369 Humana
+Celula-370 Humana
+Celula-371 Alienígena (R1)
+Celula-372 Humana
+Celula-373 Alienígena (R4)
+Celula-374 Humana
+Celula-375 Humana
+Celula-376 Alienígena (R5)
+Celula-377 Humana
+Celula-378 Humana
+Celula-379 Humana
+Celula-380 Alienígena (R1)
+Celula-381 Humana
+Celula-382 Humana
+Celula-383 Alienígena (R3)
+Celula-384 Alienígena (R4)
+Celula-385 Humana
+Celula-386 Alienígena (R3)
+Celula-387 Humana
+Celula-388 Humana
+Celula-389 Humana
+Celula-390 Alienígena (R3)
 Celula-391 Alienígena (R5)
-Celula-392 Humano
+Celula-392 Alienígena (R2)
 Celula-393 Alienígena (R5)
-Celula-394 Humano
-Celula-395 Humano
-Celula-396 Humano
+Celula-394 Alienígena (R4)
+Celula-395 Humana
+Celula-396 Humana
 Celula-397 Alienígena (R1)
-Celula-398 Humano
-Celula-399 Humano
-Celula-400 Alienígena (R4)
-Celula-401 Humano
-Celula-402 Humano
-Celula-403 Humano
-Celula-404 Humano
-Celula-405 Humano
-Celula-406 Humano
-Celula-407 Alienígena (R5)
-Celula-408 Alienígena (R2)
-Celula-409 Humano
-Celula-410 Alienígena (R5)
-Celula-411 Humano
-Celula-412 Alienígena (R5)
-Celula-413 Humano
-Celula-414 Alienígena (R1)
+Celula-398 Humana
+Celula-399 Humana
+Celula-400 Alienígena (R5)
+Celula-401 Alienígena (R4)
+Celula-402 Humana
+Celula-403 Humana
+Celula-404 Humana
+Celula-405 Alienígena (R5)
+Celula-406 Humana
+Celula-407 Humana
+Celula-408 Humana
+Celula-409 Alienígena (R3)
+Celula-410 Humana
+Celula-411 Humana
+Celula-412 Humana
+Celula-413 Humana
+Celula-414 Alienígena (R5)
 Celula-415 Alienígena (R5)
-Celula-416 Humano
+Celula-416 Humana
 Celula-417 Alienígena (R4)
-Celula-418 Humano
-Celula-419 Humano
-Celula-420 Humano
-Celula-421 Humano
-Celula-422 Alienígena (R4)
-Celula-423 Humano
-Celula-424 Humano
-Celula-425 Humano
-Celula-426 Alienígena (R4)
-Celula-427 Humano
-Celula-428 Humano
-Celula-429 Alienígena (R5)
-Celula-430 Humano
-Celula-431 Humano
-Celula-432 Alienígena
-Celula-433 Humano
-Celula-434 Alienígena (R3)
-Celula-435 Humano
-Celula-436 Alienígena (R2)
-Celula-437 Humano
-Celula-438 Humano
-Celula-439 Humano
-Celula-440 Alienígena (R3)
-Celula-441 Alienígena (R4)
-Celula-442 Alienígena (R4)
-Celula-443 Humano
-Celula-444 Humano
-Celula-445 Alienígena (R4)
-Celula-446 Humano
-Celula-447 Alienígena (R1)
-Celula-448 Humano
-Celula-449 Alienígena (R5)
-Celula-450 Humano
-Celula-451 Humano
-Celula-452 Alienígena (R4)
-Celula-453 Alienígena (R3)
-Celula-454 Humano
-Celula-455 Alienígena
-Celula-456 Humano
-Celula-457 Humano
-Celula-458 Alienígena (R2)
-Celula-459 Humano
-Celula-460 Alienígena (R5)
-Celula-461 Humano
-Celula-462 Humano
-Celula-463 Alienígena (R5)
-Celula-464 Alienígena (R4)
-Celula-465 Humano
-Celula-466 Alienígena (R3)
-Celula-467 Humano
-Celula-468 Humano
-Celula-469 Humano
-Celula-470 Alienígena (R3)
-Celula-471 Humano
-Celula-472 Alienígena (R2)
-Celula-473 Humano
-Celula-474 Alienígena
-Celula-475 Humano
-Celula-476 Humano
-Celula-477 Humano
-Celula-478 Humano
-Celula-479 Alienígena (R2)
-Celula-480 Humano
+Celula-418 Humana
+Celula-419 Humana
+Celula-420 Humana
+Celula-421 Alienígena (R5)
+Celula-422 Humana
+Celula-423 Humana
+Celula-424 Humana
+Celula-425 Humana
+Celula-426 Humana
+Celula-427 Alienígena (R2)
+Celula-428 Humana
+Celula-429 Alienígena (R2)
+Celula-430 Humana
+Celula-431 Humana
+Celula-432 Humana
+Celula-433 Humana
+Celula-434 Humana
+Celula-435 Humana
+Celula-436 Humana
+Celula-437 Humana
+Celula-438 Alienígena (R5)
+Celula-439 Humana
+Celula-440 Humana
+Celula-441 Humana
+Celula-442 Humana
+Celula-443 Humana
+Celula-444 Humana
+Celula-445 Humana
+Celula-446 Humana
+Celula-447 Humana
+Celula-448 Alienígena (R4)
+Celula-449 Humana
+Celula-450 Humana
+Celula-451 Humana
+Celula-452 Humana
+Celula-453 Humana
+Celula-454 Humana
+Celula-455 Alienígena (R5)
+Celula-456 Humana
+Celula-457 Humana
+Celula-458 Humana
+Celula-459 Humana
+Celula-460 Alienígena
+Celula-461 Humana
+Celula-462 Alienígena
+Celula-463 Alienígena (R4)
+Celula-464 Humana
+Celula-465 Humana
+Celula-466 Humana
+Celula-467 Alienígena (R4)
+Celula-468 Humana
+Celula-469 Humana
+Celula-470 Humana
+Celula-471 Alienígena (R3)
+Celula-472 Humana
+Celula-473 Alienígena (R5)
+Celula-474 Humana
+Celula-475 Humana
+Celula-476 Humana
+Celula-477 Humana
+Celula-478 Humana
+Celula-479 Humana
+Celula-480 Humana
 Celula-481 Alienígena (R4)
-Celula-482 Humano
-Celula-483 Humano
-Celula-484 Humano
-Celula-485 Humano
-Celula-486 Humano
-Celula-487 Alienígena (R4)
-Celula-488 Alienígena (R5)
-Celula-489 Humano
-Celula-490 Humano
-Celula-491 Humano
-Celula-492 Humano
-Celula-493 Alienígena (R5)
-Celula-494 Humano
-Celula-495 Humano
-Celula-496 Alienígena (R5)
-Celula-497 Humano
-Celula-498 Alienígena (R1)
-Celula-499 Alienígena (R4)
-Celula-500 Alienígena (R5)
-Celula-501 Humano
-Celula-502 Alienígena (R5)
-Celula-503 Humano
-Celula-504 Humano
-Celula-505 Humano
-Celula-506 Alienígena
-Celula-507 Humano
-Celula-508 Alienígena (R2)
-Celula-509 Humano
-Celula-510 Humano
-Celula-511 Alienígena (R4)
+Celula-482 Humana
+Celula-483 Humana
+Celula-484 Humana
+Celula-485 Humana
+Celula-486 Humana
+Celula-487 Humana
+Celula-488 Humana
+Celula-489 Humana
+Celula-490 Humana
+Celula-491 Humana
+Celula-492 Humana
+Celula-493 Humana
+Celula-494 Humana
+Celula-495 Humana
+Celula-496 Humana
+Celula-497 Humana
+Celula-498 Alienígena (R5)
+Celula-499 Humana
+Celula-500 Alienígena (R4)
+Celula-501 Humana
+Celula-502 Humana
+Celula-503 Alienígena (R2)
+Celula-504 Alienígena (R4)
+Celula-505 Humana
+Celula-506 Humana
+Celula-507 Humana
+Celula-508 Humana
+Celula-509 Humana
+Celula-510 Alienígena (R2)
+Celula-511 Humana

@@ -1,30 +1,30 @@
-Celula-000: R3: Infectada
+Celula-000: R3: Sin cambio
 Celula-001: R3: Sin cambio
 Celula-002: R3: Sin cambio
 Celula-003: R3: Sin cambio
 Celula-004: R3: Sin cambio
-Celula-005: R3: Infectada
-Celula-006: R3: Sin cambio
+Celula-005: R3: Sin cambio
+Celula-006: R3: Contagió a Celula-021
 Celula-007: R3: Sin cambio
 Celula-008: R3: Sin cambio
 Celula-009: R3: Sin cambio
 Celula-010: R3: Sin cambio
-Celula-011: R3: Sin cambio
+Celula-011: R3: Infectada
 Celula-012: R3: Sin cambio
 Celula-013: R3: Sin cambio
 Celula-014: R3: Sin cambio
 Celula-015: R3: Sin cambio
-Celula-016: R3: Infectada
+Celula-016: R3: Sin cambio
 Celula-017: R3: Sin cambio
-Celula-018: R3: Falló contagio a Celula-266
-Celula-019: R3: Infectada
+Celula-018: R3: Sin cambio
+Celula-019: R3: Falló contagio a Celula-461
 Celula-020: R3: Sin cambio
 Celula-021: R3: Infectada
 Celula-022: R3: Sin cambio
 Celula-023: R3: Sin cambio
 Celula-024: R3: Sin cambio
-Celula-025: R3: Contagió a Celula-114
-Celula-026: R3: Sin cambio
+Celula-025: R3: Sin cambio
+Celula-026: R3: Resistió contagio de Celula-137
 Celula-027: R3: Sin cambio
 Celula-028: R3: Sin cambio
 Celula-029: R3: Sin cambio
@@ -35,13 +35,13 @@ Celula-033: R3: Sin cambio
 Celula-034: R3: Sin cambio
 Celula-035: R3: Sin cambio
 Celula-036: R3: Sin cambio
-Celula-037: R3: Sin cambio
+Celula-037: R3: Resistió contagio de Celula-076
 Celula-038: R3: Sin cambio
 Celula-039: R3: Sin cambio
-Celula-040: R3: Sin cambio
-Celula-041: R3: Infectada
+Celula-040: R3: Infectada
+Celula-041: R3: Sin cambio
 Celula-042: R3: Sin cambio
-Celula-043: R3: Falló contagio a Celula-401
+Celula-043: R3: Sin cambio
 Celula-044: R3: Sin cambio
 Celula-045: R3: Sin cambio
 Celula-046: R3: Sin cambio
@@ -68,32 +68,32 @@ Celula-066: R3: Sin cambio
 Celula-067: R3: Sin cambio
 Celula-068: R3: Sin cambio
 Celula-069: R3: Sin cambio
-Celula-070: R3: Infectada
+Celula-070: R3: Sin cambio
 Celula-071: R3: Sin cambio
-Celula-072: R3: Falló contagio a Celula-239
+Celula-072: R3: Sin cambio
 Celula-073: R3: Sin cambio
-Celula-074: R3: Contagió a Celula-070
+Celula-074: R3: Sin cambio
 Celula-075: R3: Sin cambio
-Celula-076: R3: Sin cambio
-Celula-077: R3: Sin cambio
+Celula-076: R3: Falló contagio a Celula-037
+Celula-077: R3: Resistió contagio de Celula-246
 Celula-078: R3: Sin cambio
 Celula-079: R3: Sin cambio
-Celula-080: R3: Contagió a Celula-164
+Celula-080: R3: Sin cambio
 Celula-081: R3: Sin cambio
 Celula-082: R3: Sin cambio
 Celula-083: R3: Sin cambio
 Celula-084: R3: Sin cambio
 Celula-085: R3: Sin cambio
-Celula-086: R3: Contagió a Celula-329
+Celula-086: R3: Sin cambio
 Celula-087: R3: Sin cambio
 Celula-088: R3: Sin cambio
 Celula-089: R3: Sin cambio
 Celula-090: R3: Sin cambio
 Celula-091: R3: Sin cambio
 Celula-092: R3: Sin cambio
-Celula-093: R3: Sin cambio
+Celula-093: R3: Resistió contagio de Celula-213
 Celula-094: R3: Sin cambio
-Celula-095: R3: Sin cambio
+Celula-095: R3: Infectada
 Celula-096: R3: Sin cambio
 Celula-097: R3: Sin cambio
 Celula-098: R3: Sin cambio
@@ -101,96 +101,96 @@ Celula-099: R3: Sin cambio
 Celula-100: R3: Sin cambio
 Celula-101: R3: Sin cambio
 Celula-102: R3: Sin cambio
-Celula-103: R3: Resistió contagio de Celula-474
+Celula-103: R3: Sin cambio
 Celula-104: R3: Sin cambio
 Celula-105: R3: Sin cambio
 Celula-106: R3: Sin cambio
-Celula-107: R3: Contagió a Celula-368
-Celula-108: R3: Sin cambio
+Celula-107: R3: Sin cambio
+Celula-108: R3: Contagió a Celula-011
 Celula-109: R3: Sin cambio
 Celula-110: R3: Sin cambio
 Celula-111: R3: Sin cambio
-Celula-112: R3: Sin cambio
+Celula-112: R3: Contagió a Celula-383
 Celula-113: R3: Sin cambio
-Celula-114: R3: Infectada
+Celula-114: R3: Sin cambio
 Celula-115: R3: Sin cambio
-Celula-116: R3: Sin cambio
+Celula-116: R3: Infectada
 Celula-117: R3: Sin cambio
 Celula-118: R3: Sin cambio
-Celula-119: R3: Sin cambio
+Celula-119: R3: Infectada
 Celula-120: R3: Sin cambio
 Celula-121: R3: Sin cambio
 Celula-122: R3: Sin cambio
-Celula-123: R3: Sin cambio
+Celula-123: R3: Infectada
 Celula-124: R3: Sin cambio
 Celula-125: R3: Sin cambio
 Celula-126: R3: Sin cambio
 Celula-127: R3: Sin cambio
-Celula-128: R3: Sin cambio
-Celula-129: R3: Falló contagio a Celula-135
-Celula-130: R3: Sin cambio
+Celula-128: R3: Contagió a Celula-409
+Celula-129: R3: Sin cambio
+Celula-130: R3: Contagió a Celula-172
 Celula-131: R3: Sin cambio
 Celula-132: R3: Sin cambio
-Celula-133: R3: Sin cambio
+Celula-133: R3: Contagió a Celula-310
 Celula-134: R3: Sin cambio
-Celula-135: R3: Resistió contagio de Celula-129
+Celula-135: R3: Infectada
 Celula-136: R3: Sin cambio
-Celula-137: R3: Sin cambio
-Celula-138: R3: Infectada
+Celula-137: R3: Falló contagio a Celula-026
+Celula-138: R3: Sin cambio
 Celula-139: R3: Sin cambio
-Celula-140: R3: Falló contagio a Celula-141
-Celula-141: R3: Resistió contagio de Celula-140
+Celula-140: R3: Sin cambio
+Celula-141: R3: Contagió a Celula-276
 Celula-142: R3: Sin cambio
-Celula-143: R3: Infectada
+Celula-143: R3: Sin cambio
 Celula-144: R3: Sin cambio
 Celula-145: R3: Sin cambio
 Celula-146: R3: Sin cambio
 Celula-147: R3: Sin cambio
-Celula-148: R3: Contagió a Celula-245
-Celula-149: R3: Contagió a Celula-466
+Celula-148: R3: Sin cambio
+Celula-149: R3: Sin cambio
 Celula-150: R3: Sin cambio
 Celula-151: R3: Sin cambio
 Celula-152: R3: Sin cambio
 Celula-153: R3: Sin cambio
-Celula-154: R3: Sin cambio
+Celula-154: R3: Contagió a Celula-314
 Celula-155: R3: Sin cambio
 Celula-156: R3: Sin cambio
-Celula-157: R3: Sin cambio
-Celula-158: R3: Infectada
+Celula-157: R3: Contagió a Celula-209
+Celula-158: R3: Sin cambio
 Celula-159: R3: Sin cambio
-Celula-160: R3: Resistió contagio de Celula-229
+Celula-160: R3: Sin cambio
 Celula-161: R3: Sin cambio
 Celula-162: R3: Sin cambio
 Celula-163: R3: Sin cambio
-Celula-164: R3: Infectada
+Celula-164: R3: Sin cambio
 Celula-165: R3: Sin cambio
 Celula-166: R3: Sin cambio
-Celula-167: R3: Sin cambio
+Celula-167: R3: Infectada
 Celula-168: R3: Sin cambio
-Celula-169: R3: Sin cambio
+Celula-169: R3: Contagió a Celula-167
 Celula-170: R3: Sin cambio
 Celula-171: R3: Sin cambio
-Celula-172: R3: Sin cambio
-Celula-173: R3: Infectada
+Celula-172: R3: Infectada
+Celula-173: R3: Sin cambio
 Celula-174: R3: Sin cambio
 Celula-175: R3: Sin cambio
 Celula-176: R3: Sin cambio
 Celula-177: R3: Sin cambio
 Celula-178: R3: Sin cambio
 Celula-179: R3: Sin cambio
-Celula-180: R3: Sin cambio
-Celula-181: R3: Infectada
+Celula-180: R3: Contagió a Celula-119
+Celula-181: R3: Sin cambio
 Celula-182: R3: Sin cambio
-Celula-183: R3: Contagió a Celula-206
+Celula-183: R3: Sin cambio
 Celula-184: R3: Sin cambio
-Celula-185: R3: Contagió a Celula-240
+Celula-185: R3: Sin cambio
 Celula-186: R3: Sin cambio
 Celula-187: R3: Sin cambio
 Celula-188: R3: Sin cambio
-Celula-189: R3: Falló contagio a Celula-273
-Celula-190: R3: Contagió a Celula-295
+Celula-189: R3: Sin cambio
+Celula-190: R3: Sin cambio
 Celula-191: R3: Sin cambio
-Celula-192: R3: Sin cambio
+Celula-192: R3: Falló contagio a Celula-362
 Celula-193: R3: Sin cambio
 Celula-194: R3: Sin cambio
 Celula-195: R3: Sin cambio
@@ -198,64 +198,64 @@ Celula-196: R3: Sin cambio
 Celula-197: R3: Sin cambio
 Celula-198: R3: Sin cambio
 Celula-199: R3: Sin cambio
-Celula-200: R3: Contagió a Celula-276
-Celula-201: R3: Contagió a Celula-173
+Celula-200: R3: Sin cambio
+Celula-201: R3: Sin cambio
 Celula-202: R3: Sin cambio
-Celula-203: R3: Sin cambio
+Celula-203: R3: Resistió contagio de Celula-291
 Celula-204: R3: Sin cambio
 Celula-205: R3: Sin cambio
-Celula-206: R3: Infectada
+Celula-206: R3: Sin cambio
 Celula-207: R3: Sin cambio
 Celula-208: R3: Sin cambio
-Celula-209: R3: Sin cambio
+Celula-209: R3: Infectada
 Celula-210: R3: Sin cambio
-Celula-211: R3: Sin cambio
+Celula-211: R3: Resistió contagio de Celula-429
 Celula-212: R3: Sin cambio
-Celula-213: R3: Sin cambio
+Celula-213: R3: Falló contagio a Celula-093
 Celula-214: R3: Sin cambio
 Celula-215: R3: Sin cambio
 Celula-216: R3: Sin cambio
 Celula-217: R3: Sin cambio
 Celula-218: R3: Sin cambio
 Celula-219: R3: Sin cambio
-Celula-220: R3: Sin cambio
+Celula-220: R3: Contagió a Celula-471
 Celula-221: R3: Sin cambio
-Celula-222: R3: Sin cambio
+Celula-222: R3: Contagió a Celula-135
 Celula-223: R3: Sin cambio
-Celula-224: R3: Infectada
-Celula-225: R3: Infectada
+Celula-224: R3: Sin cambio
+Celula-225: R3: Sin cambio
 Celula-226: R3: Sin cambio
 Celula-227: R3: Sin cambio
 Celula-228: R3: Sin cambio
-Celula-229: R3: Falló contagio a Celula-160
+Celula-229: R3: Sin cambio
 Celula-230: R3: Sin cambio
-Celula-231: R3: Sin cambio
+Celula-231: R3: Contagió a Celula-040
 Celula-232: R3: Sin cambio
 Celula-233: R3: Sin cambio
-Celula-234: R3: Contagió a Celula-005
+Celula-234: R3: Sin cambio
 Celula-235: R3: Sin cambio
-Celula-236: R3: Sin cambio
+Celula-236: R3: Infectada
 Celula-237: R3: Sin cambio
 Celula-238: R3: Sin cambio
-Celula-239: R3: Resistió contagio de Celula-072
-Celula-240: R3: Infectada
+Celula-239: R3: Sin cambio
+Celula-240: R3: Sin cambio
 Celula-241: R3: Sin cambio
 Celula-242: R3: Sin cambio
 Celula-243: R3: Sin cambio
 Celula-244: R3: Sin cambio
-Celula-245: R3: Infectada
-Celula-246: R3: Sin cambio
+Celula-245: R3: Sin cambio
+Celula-246: R3: Falló contagio a Celula-077
 Celula-247: R3: Sin cambio
 Celula-248: R3: Sin cambio
 Celula-249: R3: Sin cambio
-Celula-250: R3: Sin cambio
+Celula-250: R3: Falló contagio a Celula-368
 Celula-251: R3: Sin cambio
 Celula-252: R3: Sin cambio
 Celula-253: R3: Sin cambio
-Celula-254: R3: Sin cambio
+Celula-254: R3: Resistió contagio de Celula-298
 Celula-255: R3: Sin cambio
-Celula-256: R3: Resistió contagio de Celula-325
-Celula-257: R3: Sin cambio
+Celula-256: R3: Sin cambio
+Celula-257: R3: Infectada
 Celula-258: R3: Sin cambio
 Celula-259: R3: Sin cambio
 Celula-260: R3: Sin cambio
@@ -264,21 +264,21 @@ Celula-262: R3: Sin cambio
 Celula-263: R3: Sin cambio
 Celula-264: R3: Sin cambio
 Celula-265: R3: Sin cambio
-Celula-266: R3: Resistió contagio de Celula-018
+Celula-266: R3: Sin cambio
 Celula-267: R3: Sin cambio
 Celula-268: R3: Sin cambio
-Celula-269: R3: Contagió a Celula-143
+Celula-269: R3: Sin cambio
 Celula-270: R3: Sin cambio
 Celula-271: R3: Sin cambio
-Celula-272: R3: Sin cambio
-Celula-273: R3: Resistió contagio de Celula-189
-Celula-274: R3: Sin cambio
-Celula-275: R3: Infectada
+Celula-272: R3: Falló contagio a Celula-394
+Celula-273: R3: Sin cambio
+Celula-274: R3: Contagió a Celula-236
+Celula-275: R3: Sin cambio
 Celula-276: R3: Infectada
 Celula-277: R3: Sin cambio
 Celula-278: R3: Sin cambio
 Celula-279: R3: Sin cambio
-Celula-280: R3: Infectada
+Celula-280: R3: Sin cambio
 Celula-281: R3: Sin cambio
 Celula-282: R3: Sin cambio
 Celula-283: R3: Sin cambio
@@ -289,50 +289,50 @@ Celula-287: R3: Sin cambio
 Celula-288: R3: Sin cambio
 Celula-289: R3: Sin cambio
 Celula-290: R3: Sin cambio
-Celula-291: R3: Sin cambio
+Celula-291: R3: Falló contagio a Celula-203
 Celula-292: R3: Sin cambio
 Celula-293: R3: Sin cambio
 Celula-294: R3: Sin cambio
-Celula-295: R3: Infectada
+Celula-295: R3: Sin cambio
 Celula-296: R3: Sin cambio
 Celula-297: R3: Sin cambio
-Celula-298: R3: Sin cambio
+Celula-298: R3: Falló contagio a Celula-254
 Celula-299: R3: Sin cambio
 Celula-300: R3: Sin cambio
 Celula-301: R3: Sin cambio
 Celula-302: R3: Sin cambio
 Celula-303: R3: Sin cambio
-Celula-304: R3: Sin cambio
+Celula-304: R3: Contagió a Celula-257
 Celula-305: R3: Sin cambio
-Celula-306: R3: Sin cambio
+Celula-306: R3: Contagió a Celula-386
 Celula-307: R3: Sin cambio
 Celula-308: R3: Sin cambio
-Celula-309: R3: Contagió a Celula-453
-Celula-310: R3: Sin cambio
+Celula-309: R3: Sin cambio
+Celula-310: R3: Infectada
 Celula-311: R3: Sin cambio
-Celula-312: R3: Contagió a Celula-327
+Celula-312: R3: Sin cambio
 Celula-313: R3: Sin cambio
-Celula-314: R3: Sin cambio
+Celula-314: R3: Infectada
 Celula-315: R3: Sin cambio
 Celula-316: R3: Sin cambio
 Celula-317: R3: Sin cambio
-Celula-318: R3: Sin cambio
-Celula-319: R3: Contagió a Celula-041
+Celula-318: R3: Falló contagio a Celula-404
+Celula-319: R3: Sin cambio
 Celula-320: R3: Sin cambio
 Celula-321: R3: Sin cambio
-Celula-322: R3: Sin cambio
+Celula-322: R3: Infectada
 Celula-323: R3: Sin cambio
 Celula-324: R3: Sin cambio
-Celula-325: R3: Falló contagio a Celula-256
+Celula-325: R3: Sin cambio
 Celula-326: R3: Sin cambio
-Celula-327: R3: Infectada
+Celula-327: R3: Sin cambio
 Celula-328: R3: Sin cambio
-Celula-329: R3: Infectada
+Celula-329: R3: Sin cambio
 Celula-330: R3: Sin cambio
 Celula-331: R3: Sin cambio
-Celula-332: R3: Resistió contagio de Celula-380
+Celula-332: R3: Sin cambio
 Celula-333: R3: Sin cambio
-Celula-334: R3: Sin cambio
+Celula-334: R3: Infectada
 Celula-335: R3: Sin cambio
 Celula-336: R3: Sin cambio
 Celula-337: R3: Sin cambio
@@ -360,61 +360,61 @@ Celula-358: R3: Sin cambio
 Celula-359: R3: Sin cambio
 Celula-360: R3: Sin cambio
 Celula-361: R3: Sin cambio
-Celula-362: R3: Sin cambio
+Celula-362: R3: Resistió contagio de Celula-192
 Celula-363: R3: Sin cambio
 Celula-364: R3: Sin cambio
 Celula-365: R3: Sin cambio
-Celula-366: R3: Contagió a Celula-470
+Celula-366: R3: Sin cambio
 Celula-367: R3: Sin cambio
-Celula-368: R3: Infectada
-Celula-369: R3: Contagió a Celula-021
+Celula-368: R3: Resistió contagio de Celula-250
+Celula-369: R3: Sin cambio
 Celula-370: R3: Sin cambio
 Celula-371: R3: Sin cambio
 Celula-372: R3: Sin cambio
 Celula-373: R3: Sin cambio
-Celula-374: R3: Contagió a Celula-181
+Celula-374: R3: Sin cambio
 Celula-375: R3: Sin cambio
 Celula-376: R3: Sin cambio
 Celula-377: R3: Sin cambio
 Celula-378: R3: Sin cambio
 Celula-379: R3: Sin cambio
-Celula-380: R3: Falló contagio a Celula-332
+Celula-380: R3: Falló contagio a Celula-488
 Celula-381: R3: Sin cambio
 Celula-382: R3: Sin cambio
-Celula-383: R3: Sin cambio
+Celula-383: R3: Infectada
 Celula-384: R3: Sin cambio
-Celula-385: R3: Infectada
-Celula-386: R3: Sin cambio
+Celula-385: R3: Sin cambio
+Celula-386: R3: Infectada
 Celula-387: R3: Sin cambio
 Celula-388: R3: Sin cambio
 Celula-389: R3: Sin cambio
-Celula-390: R3: Sin cambio
+Celula-390: R3: Infectada
 Celula-391: R3: Sin cambio
-Celula-392: R3: Sin cambio
+Celula-392: R3: Contagió a Celula-116
 Celula-393: R3: Sin cambio
-Celula-394: R3: Sin cambio
+Celula-394: R3: Resistió contagio de Celula-272
 Celula-395: R3: Sin cambio
 Celula-396: R3: Sin cambio
-Celula-397: R3: Contagió a Celula-275
+Celula-397: R3: Contagió a Celula-334
 Celula-398: R3: Sin cambio
 Celula-399: R3: Sin cambio
 Celula-400: R3: Sin cambio
-Celula-401: R3: Resistió contagio de Celula-043
+Celula-401: R3: Sin cambio
 Celula-402: R3: Sin cambio
 Celula-403: R3: Sin cambio
-Celula-404: R3: Sin cambio
+Celula-404: R3: Resistió contagio de Celula-318
 Celula-405: R3: Sin cambio
 Celula-406: R3: Sin cambio
 Celula-407: R3: Sin cambio
-Celula-408: R3: Contagió a Celula-280
-Celula-409: R3: Sin cambio
+Celula-408: R3: Sin cambio
+Celula-409: R3: Infectada
 Celula-410: R3: Sin cambio
 Celula-411: R3: Sin cambio
 Celula-412: R3: Sin cambio
 Celula-413: R3: Sin cambio
-Celula-414: R3: Falló contagio a Celula-416
+Celula-414: R3: Sin cambio
 Celula-415: R3: Sin cambio
-Celula-416: R3: Resistió contagio de Celula-414
+Celula-416: R3: Sin cambio
 Celula-417: R3: Sin cambio
 Celula-418: R3: Sin cambio
 Celula-419: R3: Sin cambio
@@ -425,60 +425,60 @@ Celula-423: R3: Sin cambio
 Celula-424: R3: Sin cambio
 Celula-425: R3: Sin cambio
 Celula-426: R3: Sin cambio
-Celula-427: R3: Sin cambio
+Celula-427: R3: Contagió a Celula-095
 Celula-428: R3: Sin cambio
-Celula-429: R3: Sin cambio
+Celula-429: R3: Falló contagio a Celula-211
 Celula-430: R3: Sin cambio
 Celula-431: R3: Sin cambio
-Celula-432: R3: Contagió a Celula-000
+Celula-432: R3: Sin cambio
 Celula-433: R3: Sin cambio
-Celula-434: R3: Infectada
+Celula-434: R3: Sin cambio
 Celula-435: R3: Sin cambio
-Celula-436: R3: Contagió a Celula-019
+Celula-436: R3: Sin cambio
 Celula-437: R3: Sin cambio
 Celula-438: R3: Sin cambio
 Celula-439: R3: Sin cambio
-Celula-440: R3: Infectada
+Celula-440: R3: Sin cambio
 Celula-441: R3: Sin cambio
 Celula-442: R3: Sin cambio
 Celula-443: R3: Sin cambio
 Celula-444: R3: Sin cambio
 Celula-445: R3: Sin cambio
 Celula-446: R3: Sin cambio
-Celula-447: R3: Contagió a Celula-440
+Celula-447: R3: Sin cambio
 Celula-448: R3: Sin cambio
 Celula-449: R3: Sin cambio
 Celula-450: R3: Sin cambio
 Celula-451: R3: Sin cambio
 Celula-452: R3: Sin cambio
-Celula-453: R3: Infectada
+Celula-453: R3: Sin cambio
 Celula-454: R3: Sin cambio
-Celula-455: R3: Contagió a Celula-138
+Celula-455: R3: Sin cambio
 Celula-456: R3: Sin cambio
 Celula-457: R3: Sin cambio
-Celula-458: R3: Contagió a Celula-434
+Celula-458: R3: Sin cambio
 Celula-459: R3: Sin cambio
-Celula-460: R3: Sin cambio
-Celula-461: R3: Sin cambio
-Celula-462: R3: Sin cambio
+Celula-460: R3: Contagió a Celula-322
+Celula-461: R3: Resistió contagio de Celula-019
+Celula-462: R3: Falló contagio a Celula-480
 Celula-463: R3: Sin cambio
 Celula-464: R3: Sin cambio
 Celula-465: R3: Sin cambio
-Celula-466: R3: Infectada
+Celula-466: R3: Sin cambio
 Celula-467: R3: Sin cambio
 Celula-468: R3: Sin cambio
 Celula-469: R3: Sin cambio
-Celula-470: R3: Infectada
-Celula-471: R3: Sin cambio
-Celula-472: R3: Contagió a Celula-385
+Celula-470: R3: Sin cambio
+Celula-471: R3: Infectada
+Celula-472: R3: Sin cambio
 Celula-473: R3: Sin cambio
-Celula-474: R3: Falló contagio a Celula-103
+Celula-474: R3: Sin cambio
 Celula-475: R3: Sin cambio
 Celula-476: R3: Sin cambio
 Celula-477: R3: Sin cambio
 Celula-478: R3: Sin cambio
-Celula-479: R3: Contagió a Celula-225
-Celula-480: R3: Sin cambio
+Celula-479: R3: Sin cambio
+Celula-480: R3: Resistió contagio de Celula-462
 Celula-481: R3: Sin cambio
 Celula-482: R3: Sin cambio
 Celula-483: R3: Sin cambio
@@ -486,7 +486,7 @@ Celula-484: R3: Sin cambio
 Celula-485: R3: Sin cambio
 Celula-486: R3: Sin cambio
 Celula-487: R3: Sin cambio
-Celula-488: R3: Sin cambio
+Celula-488: R3: Resistió contagio de Celula-380
 Celula-489: R3: Sin cambio
 Celula-490: R3: Sin cambio
 Celula-491: R3: Sin cambio
@@ -496,17 +496,17 @@ Celula-494: R3: Sin cambio
 Celula-495: R3: Sin cambio
 Celula-496: R3: Sin cambio
 Celula-497: R3: Sin cambio
-Celula-498: R3: Contagió a Celula-158
+Celula-498: R3: Sin cambio
 Celula-499: R3: Sin cambio
 Celula-500: R3: Sin cambio
 Celula-501: R3: Sin cambio
 Celula-502: R3: Sin cambio
-Celula-503: R3: Sin cambio
+Celula-503: R3: Contagió a Celula-123
 Celula-504: R3: Sin cambio
 Celula-505: R3: Sin cambio
-Celula-506: R3: Contagió a Celula-016
+Celula-506: R3: Sin cambio
 Celula-507: R3: Sin cambio
-Celula-508: R3: Contagió a Celula-224
+Celula-508: R3: Sin cambio
 Celula-509: R3: Sin cambio
-Celula-510: R3: Sin cambio
+Celula-510: R3: Contagió a Celula-390
 Celula-511: R3: Sin cambio
