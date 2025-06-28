@@ -39,6 +39,7 @@ class Celula(threading.Thread):
         with bloqueoEstado:
             if not self.esAlienigena and not self.eliminada:
                 self.esAlienigena = True
+                self.curada = False
                 self.rondaInfeccion = ronda
                 self.historial.append(f"R{ronda}: Infectada")
 
